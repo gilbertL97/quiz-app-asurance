@@ -1,0 +1,56 @@
+{
+    "modules": [
+      {
+        "id": "conceptos-basicos",
+        "name": "Conceptos Básicos de Seguros",
+        "questions": [
+          {
+            "question": "¿Qué es el riesgo en el contexto de seguros?",
+            "options": [
+              "La certeza de que ocurrirá un daño",
+              "La posibilidad de que ocurra un evento que genere una necesidad económica",
+              "El peligro inminente de un accidente",
+              "La causa directa de un siniestro"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Cuál NO es una actitud válida ante el riesgo?",
+            "options": [
+              "Ignorar",
+              "Asumir",
+              "Reducir",
+              "Eliminar completamente"
+            ],
+            "correctAnswer": 3
+          }
+        ]
+      },
+      {
+        "id": "administracion-riesgos",
+        "name": "Administración de Riesgos",
+        "questions": [
+          {
+            "question": "¿Qué es la administración de riesgos?",
+            "options": [
+              "Un método para evitar todos los riesgos posibles",
+              "Una disciplina que combina recursos para identificar, evaluar y gestionar riesgos potenciales",
+              "Un sistema para transferir todos los riesgos a una aseguradora",
+              "Un proceso para ignorar los riesgos pequeños"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Cuál es uno de los principales objetivos de la administración de riesgos?",
+            "options": [
+              "Eliminar todos los riesgos posibles",
+              "Aumentar la exposición a riesgos para obtener mayores beneficios",
+              "Análisis anticipado de afectaciones",
+              "Ignorar los riesgos menores"
+            ],
+            "correctAnswer": 2
+          }
+        ]
+      }
+    ]
+  }
