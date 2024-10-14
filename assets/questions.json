@@ -153,7 +153,58 @@
               "Seguros que solo se aplican a empresas multinacionales"
             ],
             "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué diferencia hay entre riesgo y peligro según el documento?",
+            "options": [
+              "No hay diferencia, son sinónimos",
+              "El riesgo es la posibilidad de un evento, el peligro es la fuente que puede causar daño",
+              "El peligro es la posibilidad de un evento, el riesgo es la fuente que puede causar daño",
+              "El riesgo siempre es más grave que el peligro"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "En la fórmula R = P × S, ¿qué representa 'S'?",
+            "options": [
+              "Seguridad",
+              "Siniestro",
+              "Severidad de los daños",
+              "Suma asegurada"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Cuál es una desventaja de asumir el riesgo según el documento?",
+            "options": [
+              "Es muy costoso",
+              "Requiere mucho tiempo",
+              "Puede ser difícil acumular ahorros suficientes para enfrentar un siniestro",
+              "Siempre resulta en pérdidas"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Qué implica la transferencia de riesgo en el contexto de seguros?",
+            "options": [
+              "Eliminar completamente el riesgo",
+              "Ignorar el riesgo",
+              "Transferir el riesgo a un asegurador mediante el pago de una prima",
+              "Reducir el riesgo a cero"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "En la etapa de evaluación y jerarquización de riesgos, ¿qué se determina?",
+            "options": [
+              "Solo la frecuencia de los riesgos",
+              "Solo la severidad de los riesgos",
+              "La frecuencia y severidad de los riesgos, estableciendo prioridades",
+              "El costo de eliminar todos los riesgos"
+            ],
+            "correctAnswer": 2
           }
+
         ]
       },
       {
