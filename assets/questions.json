@@ -1,8 +1,8 @@
 {
     "modules": [
-      {
-        "id": "conceptos-basicos",
-        "name": "Conceptos Básicos de Seguros",
+      {       
+         "id": "administracion-riesgos",
+         "name": "Administración de Riesgos",
         "questions": [
           {
             "question": "¿Qué es el riesgo en el contexto de seguros?",
@@ -10,26 +10,40 @@
               "La certeza de que ocurrirá un daño",
               "La posibilidad de que ocurra un evento que genere una necesidad económica",
               "El peligro inminente de un accidente",
-              "La causa directa de un siniestro"
+              "La fuente que puede causar daño"
             ],
             "correctAnswer": 1
           },
           {
-            "question": "¿Cuál NO es una actitud válida ante el riesgo?",
+            "question": "¿Cómo se expresa la relación entre riesgo y siniestro?",
+            "options": [
+              "R = P + S",
+              "R = P × S",
+              "R = P / S",
+              "R = S - P"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Cuál NO es una actitud válida ante el riesgo según el documento?",
             "options": [
               "Ignorar",
               "Asumir",
               "Reducir",
-              "Eliminar completamente"
+              "Transferir"
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "¿Cuál es considerada la opción más inteligente para manejar el riesgo?",
+            "options": [
+              "Ignorar el riesgo",
+              "Asumir el riesgo",
+              "Reducir el riesgo",
+              "Transferir el riesgo"
             ],
             "correctAnswer": 3
-          }
-        ]
-      },
-      {
-        "id": "administracion-riesgos",
-        "name": "Administración de Riesgos",
-        "questions": [
+          },
           {
             "question": "¿Qué es la administración de riesgos?",
             "options": [
@@ -41,14 +55,310 @@
             "correctAnswer": 1
           },
           {
-            "question": "¿Cuál es uno de los principales objetivos de la administración de riesgos?",
+            "question": "¿Cuál NO es uno de los principales objetivos de la administración de riesgos?",
             "options": [
-              "Eliminar todos los riesgos posibles",
-              "Aumentar la exposición a riesgos para obtener mayores beneficios",
               "Análisis anticipado de afectaciones",
-              "Ignorar los riesgos menores"
+              "Capacitación del personal",
+              "Previsiones post-siniestros",
+              "Eliminación completa de todos los riesgos"
+            ],
+            "correctAnswer": 3
+          },
+          {
+            "question": "¿Cuál es la primera etapa en la administración de riesgos?",
+            "options": [
+              "Evaluación",
+              "Control",
+              "Identificación",
+              "Monitoreo"
             ],
             "correctAnswer": 2
+          },
+          {
+            "question": "¿Qué métodos se utilizan para la evaluación de riesgos?",
+            "options": [
+              "Solo métodos inductivos",
+              "Solo métodos deductivos",
+              "Métodos inductivos y deductivos",
+              "Ningún método específico"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Qué es la retención en el contexto de financiamiento del riesgo?",
+            "options": [
+              "Transferir el riesgo a una aseguradora",
+              "Ignorar completamente el riesgo",
+              "Asumir pérdidas con recursos propios",
+              "Eliminar el riesgo"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Qué característica debe tener un riesgo para ser asegurable?",
+            "options": [
+              "Debe ser completamente predecible",
+              "Debe ser imposible de ocurrir",
+              "Debe ser incierto o aleatorio",
+              "Debe ser provocado por el asegurado"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Qué significa que un riesgo asegurable debe ser 'concreto'?",
+            "options": [
+              "Debe ser visible a simple vista",
+              "Debe ser medible en términos monetarios",
+              "Debe ocurrir en un lugar específico",
+              "Debe afectar a varias personas simultáneamente"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué técnica NO es aplicada por los aseguradores para manejar riesgos?",
+            "options": [
+              "Selección y análisis",
+              "Prevención y control",
+              "Distribución de riesgos",
+              "Eliminación total del riesgo"
+            ],
+            "correctAnswer": 3
+          },
+          {
+            "question": "¿Qué es el coaseguro?",
+            "options": [
+              "Un tipo de seguro individual",
+              "La participación de múltiples aseguradoras en un mismo riesgo",
+              "Un seguro que cubre solo una parte del riesgo",
+              "Un seguro que no requiere el pago de prima"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué permite el reaseguro a las compañías aseguradoras?",
+            "options": [
+              "Eliminar completamente sus riesgos",
+              "Transferir parte de sus riesgos a otras compañías",
+              "Aumentar sus riesgos para obtener mayores beneficios",
+              "Evitar el pago de indemnizaciones"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué son los seguros multirriesgos?",
+            "options": [
+              "Seguros que solo cubren un tipo de riesgo",
+              "Seguros que cubren múltiples riesgos bajo una sola póliza",
+              "Seguros que requieren múltiples pagos de prima",
+              "Seguros que solo se aplican a empresas multinacionales"
+            ],
+            "correctAnswer": 1
+          }
+        ]
+      },
+      {
+        "id": "conceptos-basicos",
+        "name": "Conceptos Básicos de Seguros",
+        "questions": [
+          {
+            "question": "¿Cuál es la función principal del seguro?",
+            "options": [
+              "Eliminar todos los riesgos",
+              "Generar ganancias para el asegurado",
+              "Transferir el riesgo y mitigar el impacto financiero de eventos inesperados",
+              "Prevenir que ocurran siniestros"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿En qué se basa el principio de mutualización del riesgo?",
+            "options": [
+              "En que cada asegurado asume su propio riesgo",
+              "En que los asegurados contribuyen con primas para cubrir los siniestros del grupo",
+              "En que el asegurador asume todos los riesgos",
+              "En que el estado cubre todos los siniestros"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué es el interés asegurable?",
+            "options": [
+              "El deseo de obtener un seguro",
+              "La relación económica legítima entre el asegurado y el bien asegurado",
+              "El interés del asegurador en vender pólizas",
+              "La ganancia que obtiene el asegurado"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué implica el principio de máxima buena fe en los seguros?",
+            "options": [
+              "Que el asegurador siempre gana",
+              "Que el asegurado siempre tiene la razón",
+              "Que tanto el asegurado como el asegurador deben actuar con honestidad",
+              "Que el contrato es inviolable"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Cuál es el objetivo del principio de indemnización?",
+            "options": [
+              "Maximizar las ganancias del asegurado",
+              "Penalizar al asegurado",
+              "Restaurar al asegurado a su situación financiera anterior al siniestro",
+              "Generar más ingresos para la aseguradora"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Qué es la subrogación en el contexto de seguros?",
+            "options": [
+              "La transferencia de la póliza a otra persona",
+              "El derecho del asegurador a recuperar lo pagado de un tercero responsable",
+              "La cancelación de la póliza",
+              "El aumento de la prima"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué es una póliza de 'todo riesgo'?",
+            "options": [
+              "Una póliza que cubre absolutamente todo",
+              "Una póliza que cubre solo los riesgos más comunes",
+              "Una póliza que cubre todos los riesgos no excluidos explícitamente",
+              "Una póliza que no tiene exclusiones"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Qué es la suma asegurada?",
+            "options": [
+              "El costo total de la póliza",
+              "El límite máximo que la aseguradora pagará en caso de siniestro",
+              "La cantidad de dinero que el asegurado debe pagar mensualmente",
+              "El valor total de todos los bienes del asegurado"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué es la prima en un seguro?",
+            "options": [
+              "El premio que recibe el asegurado",
+              "El costo que paga el asegurado por la cobertura",
+              "El monto máximo de indemnización",
+              "El beneficio de la aseguradora"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué es un siniestro en el contexto de seguros?",
+            "options": [
+              "La firma del contrato de seguro",
+              "El pago de la prima",
+              "Un evento que causa daños cubiertos por la póliza",
+              "La cancelación de la póliza"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Qué es un deducible en una póliza de seguro?",
+            "options": [
+              "Un descuento en la prima",
+              "El monto máximo que paga la aseguradora",
+              "Una cantidad que el asegurado debe pagar antes de que la aseguradora cubra el resto",
+              "Un beneficio adicional de la póliza"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Qué es el infraseguro?",
+            "options": [
+              "Cuando la suma asegurada es mayor al valor real",
+              "Cuando la suma asegurada es igual al valor real",
+              "Cuando la suma asegurada es menor al valor real",
+              "Cuando no se tiene seguro"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Qué es el coaseguro?",
+            "options": [
+              "Un tipo de seguro de vida",
+              "La participación de múltiples aseguradoras en un mismo riesgo",
+              "Un seguro obligatorio",
+              "Un seguro que no requiere pago de prima"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué es el reaseguro?",
+            "options": [
+              "Renovar una póliza existente",
+              "Un seguro para aseguradoras",
+              "Un tipo de seguro de salud",
+              "La cancelación de una póliza"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué son los seguros multirriesgos?",
+            "options": [
+              "Seguros que cubren solo un tipo de riesgo",
+              "Seguros que cubren múltiples riesgos bajo una sola póliza",
+              "Seguros exclusivos para empresas grandes",
+              "Seguros que requieren múltiples pagos de prima"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué es la solicitud de seguro?",
+            "options": [
+              "El recibo de pago de la prima",
+              "La póliza de seguro",
+              "Un documento que expresa la intención de asegurar un riesgo específico",
+              "El informe de un siniestro"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "¿Qué es una póliza valorada?",
+            "options": [
+              "Una póliza muy cara",
+              "Una póliza donde la indemnización se basa en un valor acordado entre las partes",
+              "Una póliza que cubre solo objetos valiosos",
+              "Una póliza con prima variable"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué es la avería gruesa en seguros marítimos?",
+            "options": [
+              "Un daño grave al barco",
+              "Gastos compartidos entre todas las partes beneficiadas para preservar bienes comunes",
+              "Una pérdida total del cargamento",
+              "Un tipo de seguro para barcos grandes"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué busca incentivar el uso de deducibles en las pólizas de seguro?",
+            "options": [
+              "El aumento de las primas",
+              "La prevención de siniestros",
+              "La contratación de más seguros",
+              "El aumento de las indemnizaciones"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "¿Qué es el principio de la causa próxima en seguros?",
+            "options": [
+              "Que el siniestro debe ocurrir cerca del asegurado",
+              "Que la pérdida debe resultar directamente de un riesgo cubierto por la póliza",
+              "Que el siniestro debe ocurrir poco después de contratar la póliza",
+              "Que el asegurado debe estar cerca del bien asegurado"
+            ],
+            "correctAnswer": 1
           }
         ]
       }
