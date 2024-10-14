@@ -1,16 +1,16 @@
 // types/quiz.ts
-export interface QuizQuestion {
+export interface QuizQuestionTypes {
     question: string;
     options: string[];
     correctAnswer: number;
   }
   
-  export interface QuizModule {
+  export interface QuizModuleTypes {
     id: string;
     name: string;
-    questions: QuizQuestion[];
+    questions: QuizQuestionTypes[];
   }
   
   export interface QuizData {
-    modules: QuizModule[];
+    modules: QuizModuleTypes[];
   }
