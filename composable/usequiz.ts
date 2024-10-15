@@ -6,12 +6,17 @@ import type {
   QuizData,
   QuizModuleTypes,
 } from "@/types/quiz.types";
+const score = ref(0);
+const totalQuestions = ref(0);
+const wrongAnswers = ref<string[]>([]);
+const rightAnswersPercent = ref<number>(0);
+const wrongAnswersPercent = ref<number>(0);
 export function useQuiz() {
   const router = useRouter();
 
   const questions = ref<QuizQuestionTypes[]>([]);
   const currentQuestionIndex = ref(0);
-  const score = ref(0);
+
   const selectedModule = ref<string | null>(null);
 
   const shuffleArray = <T>(array: T[]): T[] => {
@@ -41,6 +46,7 @@ export function useQuiz() {
       };
     });
     questions.value = shuffleArray(questions.value);
+    totalQuestions.value = questions.value.length;
   };
 
   const startQuiz = (moduleId: string) => {
@@ -62,17 +68,26 @@ export function useQuiz() {
     if (selectedIndex === currentQuestion.value.correctAnswer) {
       score.value += 1;
     }
+    if (selectedIndex != currentQuestion.value.correctAnswer) {
+      wrongAnswers.value.push(
+        currentQuestion.value.options[currentQuestion.value.correctAnswer]
+      );
+    }
     if (currentQuestionIndex.value < questions.value.length - 1) {
       currentQuestionIndex.value++;
-    }
-    if (currentQuestionIndex.value === questions.value.length - 1) {
-      finishQuiz();
     }
   };
 
   const finishQuiz = () => {
-    const finalScore = Math.round((score.value / questions.value.length) * 100);
-    router.push({ path: "/result", query: { score: finalScore.toString() } });
+    calculatePercentages();
+    router.push({ path: "/result" });
+  };
+  const calculatePercentages = () => {
+    const totalQuestions = questions.value.length;
+    rightAnswersPercent.value = Math.round(
+      (score.value / totalQuestions) * 100
+    );
+    wrongAnswersPercent.value = 100 - rightAnswersPercent.value;
   };
   return {
     questions,
@@ -81,6 +96,10 @@ export function useQuiz() {
     selectedModule,
     currentQuestion,
     quizCompleted,
+    wrongAnswers,
+    rightAnswersPercent,
+    wrongAnswersPercent,
+    totalQuestions,
     handleAnswer,
     startQuiz,
     finishQuiz,
