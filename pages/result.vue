@@ -36,6 +36,7 @@
         <div class="mt-8 flex flex-wrap justify-center gap-4">
           <UButton class="px-12 mx-20 py-4" to="/"> Volver al Inicio </UButton>
         </div>
+        <ListWrongAnswer v-if="wrongAnswers.length != 0" />
       </div>
     </div>
   </section>
@@ -50,12 +51,6 @@ const {
   rightAnswersPercent,
   totalQuestions,
 } = useQuiz();
-console.log(
-  "rightAnswersPercent",
-  rightAnswersPercent.value,
-  "wrongAnswersPercent",
-  wrongAnswersPercent.value
-);
 </script>
 
 <style scoped></style>

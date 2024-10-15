@@ -5,10 +5,11 @@ import type {
   QuizQuestionTypes,
   QuizData,
   QuizModuleTypes,
+  WrongResponse,
 } from "@/types/quiz.types";
 const score = ref(0);
 const totalQuestions = ref(0);
-const wrongAnswers = ref<string[]>([]);
+const wrongAnswers = ref<WrongResponse[]>([]);
 const rightAnswersPercent = ref<number>(0);
 const wrongAnswersPercent = ref<number>(0);
 export function useQuiz() {
@@ -69,15 +70,27 @@ export function useQuiz() {
       score.value += 1;
     }
     if (selectedIndex != currentQuestion.value.correctAnswer) {
-      wrongAnswers.value.push(
-        currentQuestion.value.options[currentQuestion.value.correctAnswer]
+      addWronggAnswer(
+        currentQuestion.value.options[currentQuestion.value.correctAnswer],
+        currentQuestion.value.options[selectedIndex],
+        currentQuestion.value.question
       );
     }
     if (currentQuestionIndex.value < questions.value.length - 1) {
       currentQuestionIndex.value++;
     }
   };
-
+  const addWronggAnswer = (
+    correct: string,
+    incorrect: string,
+    question: string
+  ) => {
+    wrongAnswers.value.push({
+      question: question,
+      correctAnswer: correct,
+      selectedAnswer: incorrect,
+    });
+  };
   const finishQuiz = () => {
     calculatePercentages();
     router.push({ path: "/result" });
