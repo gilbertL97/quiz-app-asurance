@@ -996,6 +996,203 @@
           "correctAnswer": 2
         }
       ]
+    },
+    {
+      "id": "principios-seguro",
+      "name": "Principios del seguro",
+      "questions": [
+        {
+          "question": "¿Qué es el interés asegurable?",
+          "options": [
+            "Un deseo de obtener ganancias del seguro",
+            "La obligación de pagar la prima",
+            "El derecho legal a asegurar, originado por la relación financiera legalmente reconocida entre el asegurado y el objeto del seguro",
+            "Un requisito solo para seguros de vida"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Cuál de los siguientes NO es un elemento básico del interés asegurable?",
+          "options": [
+            "Objeto del Seguro",
+            "Interés económico o financiero en el objeto del seguro",
+            "Interés real y existente",
+            "Garantía de beneficio económico"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Qué implica el principio de máxima buena fe en el seguro?",
+          "options": [
+            "Ocultar información relevante al asegurador",
+            "Revelar todos los factores materiales relacionados con el contrato y no efectuar falsas declaraciones",
+            "Pagar siempre la prima más alta posible",
+            "Aceptar cualquier condición impuesta por la aseguradora"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué es la falsa declaración en el contexto del seguro?",
+          "options": [
+            "Una estrategia para obtener mejores coberturas",
+            "Manifestaciones del asegurado que describen incorrectamente las circunstancias y valor del objeto asegurado",
+            "Un requisito legal para obtener un seguro",
+            "Una práctica recomendada por las aseguradoras"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué es la causa próxima en el contexto del seguro?",
+          "options": [
+            "El último evento en una cadena de sucesos",
+            "La causa principal y con efecto más importante en la pérdida",
+            "La primera causa que inicia un siniestro",
+            "Un evento aleatorio no relacionado con la pérdida"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué es la subrogación en el contexto de los seguros?",
+          "options": [
+            "El derecho del asegurado a cancelar la póliza en cualquier momento",
+            "La obligación del asegurador de aumentar la cobertura sin costo adicional",
+            "El derecho del asegurador, que ha indemnizado al asegurado, a colocarse en su lugar y recobrar de un tercero legalmente responsable",
+            "La capacidad del asegurado de transferir su póliza a otra persona"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Cuál es uno de los compromisos del asegurado en relación a la subrogación?",
+          "options": [
+            "Ocultar información sobre terceros responsables",
+            "Devolver al asegurador cualquier suma recibida de un tercero responsable de la pérdida",
+            "Negarse a iniciar procedimientos legales contra terceros",
+            "Impedir que el asegurador ejerza acciones contra terceros"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué es la contribución en el contexto de los seguros?",
+          "options": [
+            "Un impuesto adicional sobre las primas de seguro",
+            "El derecho del asegurador a reclamar a otros aseguradores para dividir los costos de la indemnización en caso de doble seguro",
+            "Una bonificación otorgada al asegurado por no hacer reclamaciones",
+            "La obligación del asegurado de pagar primas adicionales"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué establece la cláusula de escape en relación a la contribución?",
+          "options": [
+            "Permite al asegurado contratar múltiples seguros sin restricciones",
+            "Prohíbe al asegurado la contratación de otro seguro sobre el mismo riesgo sin el consentimiento del asegurador",
+            "Obliga al asegurador a pagar todas las reclamaciones sin importar otros seguros",
+            "Permite al asegurado cancelar la póliza en cualquier momento"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué implica la cláusula de no contribución?",
+          "options": [
+            "El asegurador siempre pagará la totalidad de la pérdida",
+            "El asegurador no se considera responsable de ninguna pérdida por la cual el asegurado tenga derecho a reclamar bajo cualquier otra póliza",
+            "El asegurado debe contribuir con un porcentaje fijo en cada reclamación",
+            "Todos los aseguradores deben contribuir por igual en caso de pérdida"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál es uno de los propósitos principales del principio de indemnización en los seguros?",
+          "options": [
+            "Maximizar las ganancias del asegurador",
+            "Permitir que el asegurado obtenga un beneficio del siniestro",
+            "Restaurar la posición financiera del asegurado a la que tenía inmediatamente antes del siniestro",
+            "Penalizar al asegurado por hacer reclamaciones"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué es el salvamento en el contexto de los seguros?",
+          "options": [
+            "Una operación de rescate en caso de accidente",
+            "El derecho del asegurador sobre los restos del objeto asegurado después de pagar una pérdida total",
+            "Un descuento en la prima por buen historial de reclamaciones",
+            "La devolución de primas no utilizadas al cancelar una póliza"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué implica el abandono en el contexto de los seguros?",
+          "options": [
+            "La cancelación unilateral de la póliza por parte del asegurado",
+            "La renuncia del asegurador a cobrar primas futuras",
+            "La cesión de los derechos sobre el objeto asegurado al asegurador en caso de pérdida total",
+            "La negativa del asegurador a pagar una reclamación"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Cuál es la diferencia principal entre el salvamento y el abandono?",
+          "options": [
+            "El salvamento siempre resulta en una ganancia para el asegurado",
+            "El abandono requiere la aceptación del asegurador, mientras que el salvamento es automático",
+            "El salvamento solo se aplica en seguros de vida, mientras que el abandono es para seguros de propiedad",
+            "No hay diferencia, son términos intercambiables"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué establece la cláusula de seguros más específicos en relación a la contribución?",
+          "options": [
+            "Siempre se aplicará el seguro más caro",
+            "El seguro más antiguo tiene prioridad",
+            "Si la pérdida está cubierta por otro seguro más específico, la póliza solo responderá por los excesos una vez que se haya recibido la indemnización de ese otro seguro más específico",
+            "Todos los seguros contribuirán por igual, independientemente de su especificidad"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué implica la cláusula de proporcionalidad en la contribución?",
+          "options": [
+            "El asegurador pagará siempre el 100% de la pérdida",
+            "El asegurador se considerará responsable solo por la parte proporcional que le corresponda",
+            "El asegurado debe pagar una parte proporcional de cada reclamación",
+            "La indemnización se divide equitativamente entre todos los aseguradores, sin importar la suma asegurada"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál es uno de los deberes del asegurado según el principio de máxima buena fe?",
+          "options": [
+            "Ocultar información para obtener una prima más baja",
+            "Exagerar el valor de los bienes asegurados",
+            "Comunicar las circunstancias modificativas del riesgo (agravación)",
+            "Negarse a proporcionar información al asegurador"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué se considera un aspecto esencial del riesgo en el contexto de máxima buena fe?",
+          "options": [
+            "Solo los aspectos que el asegurado considere importantes",
+            "Únicamente la información solicitada explícitamente por el asegurador",
+            "Todas las circunstancias que puedan influir en el juicio razonable del asegurador sobre la valoración del riesgo",
+            "Exclusivamente los aspectos relacionados con el valor monetario del objeto asegurado"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Cuál es una consecuencia potencial del incumplimiento máximo bueno por parte del Asegurado?",
+          "options": [
+            "Un aumento automático en cobertura",
+            "La anulación retrospectiva contrato y no responsabilidad Asegurador reclamación alguna",
+            "Una bonificación prima siguiente año",
+            "La obligación Asegurador duplicar suma Asegurada"
+          ],
+          "correctAnswer": 1
+        }
+      ]
     }
+    
   ]
 }
