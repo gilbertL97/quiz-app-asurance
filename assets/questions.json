@@ -1,196 +1,6 @@
 {
   "modules": [
-    {
-      "id": "administracion-riesgos",
-      "name": "Administración de Riesgos",
-      "questions": [
-        {
-          "question": "¿Qué es el riesgo en el contexto de seguros?",
-          "options": [
-            "La certeza de que ocurrirá un daño",
-            "La posibilidad de que ocurra un evento que genere una necesidad económica",
-            "El peligro inminente de un accidente",
-            "La fuente que puede causar daño"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cómo se expresa la relación entre riesgo y siniestro?",
-          "options": ["R = P + S", "R = P × S", "R = P / S", "R = S - P"],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuál NO es una actitud válida ante el riesgo según el documento?",
-          "options": ["Ignorar", "Asumir", "Reducir", "Transferir"],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cuál es considerada la opción más inteligente para manejar el riesgo?",
-          "options": [
-            "Ignorar el riesgo",
-            "Asumir el riesgo",
-            "Reducir el riesgo",
-            "Transferir el riesgo"
-          ],
-          "correctAnswer": 3
-        },
-        {
-          "question": "¿Qué es la administración de riesgos?",
-          "options": [
-            "Un método para evitar todos los riesgos posibles",
-            "Una disciplina que combina recursos para identificar, evaluar y gestionar riesgos potenciales",
-            "Un sistema para transferir todos los riesgos a una aseguradora",
-            "Un proceso para ignorar los riesgos pequeños"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuál NO es uno de los principales objetivos de la administración de riesgos?",
-          "options": [
-            "Análisis anticipado de afectaciones",
-            "Capacitación del personal",
-            "Previsiones post-siniestros",
-            "Eliminación completa de todos los riesgos"
-          ],
-          "correctAnswer": 3
-        },
-        {
-          "question": "¿Cuál es la primera etapa en la administración de riesgos?",
-          "options": ["Evaluación", "Control", "Identificación", "Monitoreo"],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Qué métodos se utilizan para la evaluación de riesgos?",
-          "options": [
-            "Solo métodos inductivos",
-            "Solo métodos deductivos",
-            "Métodos inductivos y deductivos",
-            "Ningún método específico"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Qué es la retención en el contexto de financiamiento del riesgo?",
-          "options": [
-            "Transferir el riesgo a una aseguradora",
-            "Ignorar completamente el riesgo",
-            "Asumir pérdidas con recursos propios",
-            "Eliminar el riesgo"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Qué característica debe tener un riesgo para ser asegurable?",
-          "options": [
-            "Debe ser completamente predecible",
-            "Debe ser imposible de ocurrir",
-            "Debe ser incierto o aleatorio",
-            "Debe ser provocado por el asegurado"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Qué significa que un riesgo asegurable debe ser 'concreto'?",
-          "options": [
-            "Debe ser visible a simple vista",
-            "Debe ser medible en términos monetarios",
-            "Debe ocurrir en un lugar específico",
-            "Debe afectar a varias personas simultáneamente"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué técnica NO es aplicada por los aseguradores para manejar riesgos?",
-          "options": [
-            "Selección y análisis",
-            "Prevención y control",
-            "Distribución de riesgos",
-            "Eliminación total del riesgo"
-          ],
-          "correctAnswer": 3
-        },
-        {
-          "question": "¿Qué es el coaseguro?",
-          "options": [
-            "Un tipo de seguro individual",
-            "La participación de múltiples aseguradoras en un mismo riesgo",
-            "Un seguro que cubre solo una parte del riesgo",
-            "Un seguro que no requiere el pago de prima"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué permite el reaseguro a las compañías aseguradoras?",
-          "options": [
-            "Eliminar completamente sus riesgos",
-            "Transferir parte de sus riesgos a otras compañías",
-            "Aumentar sus riesgos para obtener mayores beneficios",
-            "Evitar el pago de indemnizaciones"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué son los seguros multirriesgos?",
-          "options": [
-            "Seguros que solo cubren un tipo de riesgo",
-            "Seguros que cubren múltiples riesgos bajo una sola póliza",
-            "Seguros que requieren múltiples pagos de prima",
-            "Seguros que solo se aplican a empresas multinacionales"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué diferencia hay entre riesgo y peligro según el documento?",
-          "options": [
-            "No hay diferencia, son sinónimos",
-            "El riesgo es la posibilidad de un evento, el peligro es la fuente que puede causar daño",
-            "El peligro es la posibilidad de un evento, el riesgo es la fuente que puede causar daño",
-            "El riesgo siempre es más grave que el peligro"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "En la fórmula R = P × S, ¿qué representa 'S'?",
-          "options": [
-            "Seguridad",
-            "Siniestro",
-            "Severidad de los daños",
-            "Suma asegurada"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Cuál es una desventaja de asumir el riesgo según el documento?",
-          "options": [
-            "Es muy costoso",
-            "Requiere mucho tiempo",
-            "Puede ser difícil acumular ahorros suficientes para enfrentar un siniestro",
-            "Siempre resulta en pérdidas"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Qué implica la transferencia de riesgo en el contexto de seguros?",
-          "options": [
-            "Eliminar completamente el riesgo",
-            "Ignorar el riesgo",
-            "Transferir el riesgo a un asegurador mediante el pago de una prima",
-            "Reducir el riesgo a cero"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "En la etapa de evaluación y jerarquización de riesgos, ¿qué se determina?",
-          "options": [
-            "Solo la frecuencia de los riesgos",
-            "Solo la severidad de los riesgos",
-            "La frecuencia y severidad de los riesgos, estableciendo prioridades",
-            "El costo de eliminar todos los riesgos"
-          ],
-          "correctAnswer": 2
-        }
-      ]
-    },
+
     {
       "id": "conceptos-basicos",
       "name": "Conceptos Básicos de Seguros",
@@ -615,283 +425,6 @@
       ]
     },
     {
-      "id": "historia-seguro",
-      "name": "Historia del seguro",
-      "questions": [
-        {
-          "question": "¿Cuál fue uno de los primeros ejemplos de compensación colectiva mencionados?",
-          "options": [
-            "Los colegios militares romanos",
-            "Las caravanas babilonias",
-            "Los estatutos de Florencia",
-            "Las primeras compañías de seguros en Génova"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿En qué año se publicaron las primeras tablas de mortalidad?",
-          "options": ["1650", "1693", "1700", "1750"],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuándo se fundó la primera compañía de seguros en La Habana?",
-          "options": ["1780", "1795", "1800", "1810"],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué fue la primera ley relacionada con el seguro en Cuba?",
-          "options": [
-            "Ley de Seguros Marítimos",
-            "Ley de Seguros de Vida",
-            "Ley de Seguros Generales",
-            "Ley del Seguro de Accidentes del Trabajo"
-          ],
-          "correctAnswer": 3
-        },
-        {
-          "question": "¿Cuál fue el nombre de la primera compañía de seguros mutua en Cuba?",
-          "options": ["La Alianza", "El Iris", "Lloyd Habanero", "La Nacional"],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿En qué año se fundó la Compañía Cubana de Fianzas?",
-          "options": ["1900", "1903", "1905", "1910"],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuántas compañías de seguros operaban en Cuba en 1940?",
-          "options": ["50", "75", "95", "120"],
-          "correctAnswer": 2
-        }
-      ]
-    },
-    {
-      "id": "fraude-seguro",
-      "name": "Fraude en el seguro",
-      "questions": [
-        {
-          "question": "¿Cómo se define el fraude en el contexto del seguro?",
-          "options": [
-            "Un acto lícito que busca proteger a terceros",
-            "Un acto ilícito que busca causar perjuicio a terceros o a la colectividad",
-            "Una práctica comercial ética",
-            "Un tipo de inversión financiera"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuál es el principio que debe regir en las relaciones aseguradoras pero que el fraude contraviene?",
-          "options": [
-            "Principio de mala fe",
-            "Principio de buena fe",
-            "Principio de igualdad",
-            "Principio de justicia"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué tipo de fraude incluye el hurto de información y la desviación de fondos?",
-          "options": [
-            "Fraude externo",
-            "Fraude interno",
-            "Fraude blando",
-            "Fraude duro"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué es un ejemplo de fraude externo?",
-          "options": [
-            "Un empleado que roba información confidencial",
-            "Un asegurado que declara propiedades inexistentes",
-            "Un agente que tiene conflictos de interés",
-            "Una aseguradora que paga reclamaciones sospechosas"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué es la simulación de siniestros?",
-          "options": [
-            "Inventar eventos que nunca ocurrieron",
-            "Exagerar los daños de un siniestro real",
-            "Ocultar información relevante al asegurador",
-            "Provocar intencionalmente un siniestro"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "Según Derrig y Weisberg, ¿qué tipo de fraude incluye reclamaciones sin engaño?",
-          "options": [
-            "Fraude legítimo",
-            "Fraude oportunista",
-            "Fraude planeado",
-            "Fraude blando"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué es el fraude blando (soft fraud)?",
-          "options": [
-            "Notificaciones falsas o exageradas",
-            "Creación intencionada de siniestros falsos",
-            "Hurto de información confidencial",
-            "Desviación de fondos de la aseguradora"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cuál es una de las consecuencias del fraude en el seguro?",
-          "options": [
-            "Disminución de las primas",
-            "Mejora en la calidad del servicio",
-            "Aumento en los costos del seguro",
-            "Incremento en la competencia entre aseguradoras"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Por qué algunas aseguradoras prefieren pagar reclamaciones sospechosas?",
-          "options": [
-            "Para evitar litigios costosos",
-            "Para mejorar su imagen pública",
-            "Para cumplir con leyes regulatorias",
-            "Para aumentar sus ganancias"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué es una forma de combatir el fraude en el sector asegurador?",
-          "options": [
-            "Reducir las primas",
-            "Capacitar al personal para detectar fraudes",
-            "Ignorar las reclamaciones sospechosas",
-            "Subcontratar servicios de investigación"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué es el Fraud Act en el Reino Unido?",
-          "options": [
-            "Una ley que promueve el fraude en seguros",
-            "Una ley que establece sanciones severas por fraude en seguros",
-            "Una ley que regula las primas de seguro",
-            "Una ley que protege a los aseguradores contra demandas"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué es la ICEA en España?",
-          "options": [
-            "Investigación Criminal de Entidades Aseguradoras",
-            "Investigación Cooperativa entre Entidades Aseguradoras",
-            "Inspección Central de Entidades Aseguradoras",
-            "Instituto de Control de Entidades Aseguradoras"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué es el fraude duro (hard fraud)?",
-          "options": [
-            "Notificaciones falsas o exageradas",
-            "Creación intencionada de siniestros falsos",
-            "Ocultación de información relevante al asegurador",
-            "Exageración de daños de un siniestro real"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuál es una causa del aumento del fraude?",
-          "options": [
-            "La percepción de alto riesgo legal",
-            "La dificultad en reclamaciones sospechosas",
-            "La tolerancia social hacia el fraude",
-            "La disminución de las primas de seguro"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Qué es una consecuencia negativa del fraude en el sector asegurador?",
-          "options": [
-            "Mejor atención al cliente",
-            "Mayor competencia entre aseguradoras",
-            "Quiebras de aseguradoras",
-            "Disminución de las primas"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Por qué algunas personas justifican el fraude contra las aseguradoras?",
-          "options": [
-            "Consideran que es ilegal",
-            "Piensan que es poco ético",
-            "Creen que es aceptable engañar a las aseguradoras",
-            "Tienen miedo de ser descubiertas"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Qué es una forma de combatir el fraude según la información proporcionada?",
-          "options": [
-            "Implementar leyes más permisivas",
-            "Reducir la capacitación del personal",
-            "Fomentar denuncias anónimas",
-            "Ignorar las reclamaciones sospechosas"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Qué es el conflicto de interés en el contexto del fraude interno?",
-          "options": [
-            "Relaciones inapropiadas con vendedores",
-            "Uso indebido de datos confidenciales",
-            "Desviación de fondos de la aseguradora",
-            "Capacitación insuficiente del personal"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué es el fraude oportunista según Derrig y Weisberg?",
-          "options": [
-            "Reclamaciones sin engaño",
-            "Aprovechar un siniestro real para reclamar daños inexistentes",
-            "Eventos provocados deliberadamente para obtener beneficios",
-            "Hurto de información confidencial"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuál es una consecuencia del fraude en el sector asegurador relacionada con la salud pública?",
-          "options": [
-            "Mejora en la calidad de los servicios médicos",
-            "Ventas fraudulentas de pólizas médicas que pueden poner en riesgo vidas",
-            "Aumento en la cobertura de seguros de salud",
-            "Disminución en el número de hospitales"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué es una forma de combatir el fraude mencionada en la información proporcionada?",
-          "options": [
-            "Intercambio de información entre compañías",
-            "Reducción de las primas de seguro",
-            "Incremento en la publicidad de las aseguradoras",
-            "Disminución en la contratación de empleados"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué es el fraude planeado según Derrig y Weisberg?",
-          "options": [
-            "Reclamaciones sin engaño",
-            "Aprovechar un siniestro real para reclamar daños inexistentes",
-            "Eventos provocados deliberadamente para obtener beneficios",
-            "Ocultación de información relevante al asegurador"
-          ],
-          "correctAnswer": 2
-        }
-      ]
-    },
-    {
       "id": "riesgo",
       "name": "Riesgo",
       "questions": [
@@ -1192,7 +725,474 @@
           "correctAnswer": 1
         }
       ]
+    },
+    {
+      "id": "administracion-riesgos",
+      "name": "Administración de Riesgos (No va a la Prueba)",
+      "questions": [
+        {
+          "question": "¿Qué es el riesgo en el contexto de seguros?",
+          "options": [
+            "La certeza de que ocurrirá un daño",
+            "La posibilidad de que ocurra un evento que genere una necesidad económica",
+            "El peligro inminente de un accidente",
+            "La fuente que puede causar daño"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cómo se expresa la relación entre riesgo y siniestro?",
+          "options": ["R = P + S", "R = P × S", "R = P / S", "R = S - P"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál NO es una actitud válida ante el riesgo según el documento?",
+          "options": ["Ignorar", "Asumir", "Reducir", "Transferir"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál es considerada la opción más inteligente para manejar el riesgo?",
+          "options": [
+            "Ignorar el riesgo",
+            "Asumir el riesgo",
+            "Reducir el riesgo",
+            "Transferir el riesgo"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Qué es la administración de riesgos?",
+          "options": [
+            "Un método para evitar todos los riesgos posibles",
+            "Una disciplina que combina recursos para identificar, evaluar y gestionar riesgos potenciales",
+            "Un sistema para transferir todos los riesgos a una aseguradora",
+            "Un proceso para ignorar los riesgos pequeños"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál NO es uno de los principales objetivos de la administración de riesgos?",
+          "options": [
+            "Análisis anticipado de afectaciones",
+            "Capacitación del personal",
+            "Previsiones post-siniestros",
+            "Eliminación completa de todos los riesgos"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál es la primera etapa en la administración de riesgos?",
+          "options": ["Evaluación", "Control", "Identificación", "Monitoreo"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué métodos se utilizan para la evaluación de riesgos?",
+          "options": [
+            "Solo métodos inductivos",
+            "Solo métodos deductivos",
+            "Métodos inductivos y deductivos",
+            "Ningún método específico"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué es la retención en el contexto de financiamiento del riesgo?",
+          "options": [
+            "Transferir el riesgo a una aseguradora",
+            "Ignorar completamente el riesgo",
+            "Asumir pérdidas con recursos propios",
+            "Eliminar el riesgo"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué característica debe tener un riesgo para ser asegurable?",
+          "options": [
+            "Debe ser completamente predecible",
+            "Debe ser imposible de ocurrir",
+            "Debe ser incierto o aleatorio",
+            "Debe ser provocado por el asegurado"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué significa que un riesgo asegurable debe ser 'concreto'?",
+          "options": [
+            "Debe ser visible a simple vista",
+            "Debe ser medible en términos monetarios",
+            "Debe ocurrir en un lugar específico",
+            "Debe afectar a varias personas simultáneamente"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué técnica NO es aplicada por los aseguradores para manejar riesgos?",
+          "options": [
+            "Selección y análisis",
+            "Prevención y control",
+            "Distribución de riesgos",
+            "Eliminación total del riesgo"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Qué es el coaseguro?",
+          "options": [
+            "Un tipo de seguro individual",
+            "La participación de múltiples aseguradoras en un mismo riesgo",
+            "Un seguro que cubre solo una parte del riesgo",
+            "Un seguro que no requiere el pago de prima"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué permite el reaseguro a las compañías aseguradoras?",
+          "options": [
+            "Eliminar completamente sus riesgos",
+            "Transferir parte de sus riesgos a otras compañías",
+            "Aumentar sus riesgos para obtener mayores beneficios",
+            "Evitar el pago de indemnizaciones"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué son los seguros multirriesgos?",
+          "options": [
+            "Seguros que solo cubren un tipo de riesgo",
+            "Seguros que cubren múltiples riesgos bajo una sola póliza",
+            "Seguros que requieren múltiples pagos de prima",
+            "Seguros que solo se aplican a empresas multinacionales"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué diferencia hay entre riesgo y peligro según el documento?",
+          "options": [
+            "No hay diferencia, son sinónimos",
+            "El riesgo es la posibilidad de un evento, el peligro es la fuente que puede causar daño",
+            "El peligro es la posibilidad de un evento, el riesgo es la fuente que puede causar daño",
+            "El riesgo siempre es más grave que el peligro"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "En la fórmula R = P × S, ¿qué representa 'S'?",
+          "options": [
+            "Seguridad",
+            "Siniestro",
+            "Severidad de los daños",
+            "Suma asegurada"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Cuál es una desventaja de asumir el riesgo según el documento?",
+          "options": [
+            "Es muy costoso",
+            "Requiere mucho tiempo",
+            "Puede ser difícil acumular ahorros suficientes para enfrentar un siniestro",
+            "Siempre resulta en pérdidas"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué implica la transferencia de riesgo en el contexto de seguros?",
+          "options": [
+            "Eliminar completamente el riesgo",
+            "Ignorar el riesgo",
+            "Transferir el riesgo a un asegurador mediante el pago de una prima",
+            "Reducir el riesgo a cero"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "En la etapa de evaluación y jerarquización de riesgos, ¿qué se determina?",
+          "options": [
+            "Solo la frecuencia de los riesgos",
+            "Solo la severidad de los riesgos",
+            "La frecuencia y severidad de los riesgos, estableciendo prioridades",
+            "El costo de eliminar todos los riesgos"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "historia-seguro",
+      "name": "Historia del seguro (No va a la Prueba)",
+      "questions": [
+        {
+          "question": "¿Cuál fue uno de los primeros ejemplos de compensación colectiva mencionados?",
+          "options": [
+            "Los colegios militares romanos",
+            "Las caravanas babilonias",
+            "Los estatutos de Florencia",
+            "Las primeras compañías de seguros en Génova"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿En qué año se publicaron las primeras tablas de mortalidad?",
+          "options": ["1650", "1693", "1700", "1750"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuándo se fundó la primera compañía de seguros en La Habana?",
+          "options": ["1780", "1795", "1800", "1810"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué fue la primera ley relacionada con el seguro en Cuba?",
+          "options": [
+            "Ley de Seguros Marítimos",
+            "Ley de Seguros de Vida",
+            "Ley de Seguros Generales",
+            "Ley del Seguro de Accidentes del Trabajo"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál fue el nombre de la primera compañía de seguros mutua en Cuba?",
+          "options": ["La Alianza", "El Iris", "Lloyd Habanero", "La Nacional"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿En qué año se fundó la Compañía Cubana de Fianzas?",
+          "options": ["1900", "1903", "1905", "1910"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuántas compañías de seguros operaban en Cuba en 1940?",
+          "options": ["50", "75", "95", "120"],
+          "correctAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": "fraude-seguro",
+      "name": "Fraude en el seguro (No va a la Prueba)",
+      "questions": [
+        {
+          "question": "¿Cómo se define el fraude en el contexto del seguro?",
+          "options": [
+            "Un acto lícito que busca proteger a terceros",
+            "Un acto ilícito que busca causar perjuicio a terceros o a la colectividad",
+            "Una práctica comercial ética",
+            "Un tipo de inversión financiera"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál es el principio que debe regir en las relaciones aseguradoras pero que el fraude contraviene?",
+          "options": [
+            "Principio de mala fe",
+            "Principio de buena fe",
+            "Principio de igualdad",
+            "Principio de justicia"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué tipo de fraude incluye el hurto de información y la desviación de fondos?",
+          "options": [
+            "Fraude externo",
+            "Fraude interno",
+            "Fraude blando",
+            "Fraude duro"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué es un ejemplo de fraude externo?",
+          "options": [
+            "Un empleado que roba información confidencial",
+            "Un asegurado que declara propiedades inexistentes",
+            "Un agente que tiene conflictos de interés",
+            "Una aseguradora que paga reclamaciones sospechosas"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué es la simulación de siniestros?",
+          "options": [
+            "Inventar eventos que nunca ocurrieron",
+            "Exagerar los daños de un siniestro real",
+            "Ocultar información relevante al asegurador",
+            "Provocar intencionalmente un siniestro"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Según Derrig y Weisberg, ¿qué tipo de fraude incluye reclamaciones sin engaño?",
+          "options": [
+            "Fraude legítimo",
+            "Fraude oportunista",
+            "Fraude planeado",
+            "Fraude blando"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué es el fraude blando (soft fraud)?",
+          "options": [
+            "Notificaciones falsas o exageradas",
+            "Creación intencionada de siniestros falsos",
+            "Hurto de información confidencial",
+            "Desviación de fondos de la aseguradora"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál es una de las consecuencias del fraude en el seguro?",
+          "options": [
+            "Disminución de las primas",
+            "Mejora en la calidad del servicio",
+            "Aumento en los costos del seguro",
+            "Incremento en la competencia entre aseguradoras"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Por qué algunas aseguradoras prefieren pagar reclamaciones sospechosas?",
+          "options": [
+            "Para evitar litigios costosos",
+            "Para mejorar su imagen pública",
+            "Para cumplir con leyes regulatorias",
+            "Para aumentar sus ganancias"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué es una forma de combatir el fraude en el sector asegurador?",
+          "options": [
+            "Reducir las primas",
+            "Capacitar al personal para detectar fraudes",
+            "Ignorar las reclamaciones sospechosas",
+            "Subcontratar servicios de investigación"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué es el Fraud Act en el Reino Unido?",
+          "options": [
+            "Una ley que promueve el fraude en seguros",
+            "Una ley que establece sanciones severas por fraude en seguros",
+            "Una ley que regula las primas de seguro",
+            "Una ley que protege a los aseguradores contra demandas"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué es la ICEA en España?",
+          "options": [
+            "Investigación Criminal de Entidades Aseguradoras",
+            "Investigación Cooperativa entre Entidades Aseguradoras",
+            "Inspección Central de Entidades Aseguradoras",
+            "Instituto de Control de Entidades Aseguradoras"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué es el fraude duro (hard fraud)?",
+          "options": [
+            "Notificaciones falsas o exageradas",
+            "Creación intencionada de siniestros falsos",
+            "Ocultación de información relevante al asegurador",
+            "Exageración de daños de un siniestro real"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál es una causa del aumento del fraude?",
+          "options": [
+            "La percepción de alto riesgo legal",
+            "La dificultad en reclamaciones sospechosas",
+            "La tolerancia social hacia el fraude",
+            "La disminución de las primas de seguro"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué es una consecuencia negativa del fraude en el sector asegurador?",
+          "options": [
+            "Mejor atención al cliente",
+            "Mayor competencia entre aseguradoras",
+            "Quiebras de aseguradoras",
+            "Disminución de las primas"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Por qué algunas personas justifican el fraude contra las aseguradoras?",
+          "options": [
+            "Consideran que es ilegal",
+            "Piensan que es poco ético",
+            "Creen que es aceptable engañar a las aseguradoras",
+            "Tienen miedo de ser descubiertas"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué es una forma de combatir el fraude según la información proporcionada?",
+          "options": [
+            "Implementar leyes más permisivas",
+            "Reducir la capacitación del personal",
+            "Fomentar denuncias anónimas",
+            "Ignorar las reclamaciones sospechosas"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué es el conflicto de interés en el contexto del fraude interno?",
+          "options": [
+            "Relaciones inapropiadas con vendedores",
+            "Uso indebido de datos confidenciales",
+            "Desviación de fondos de la aseguradora",
+            "Capacitación insuficiente del personal"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué es el fraude oportunista según Derrig y Weisberg?",
+          "options": [
+            "Reclamaciones sin engaño",
+            "Aprovechar un siniestro real para reclamar daños inexistentes",
+            "Eventos provocados deliberadamente para obtener beneficios",
+            "Hurto de información confidencial"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál es una consecuencia del fraude en el sector asegurador relacionada con la salud pública?",
+          "options": [
+            "Mejora en la calidad de los servicios médicos",
+            "Ventas fraudulentas de pólizas médicas que pueden poner en riesgo vidas",
+            "Aumento en la cobertura de seguros de salud",
+            "Disminución en el número de hospitales"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué es una forma de combatir el fraude mencionada en la información proporcionada?",
+          "options": [
+            "Intercambio de información entre compañías",
+            "Reducción de las primas de seguro",
+            "Incremento en la publicidad de las aseguradoras",
+            "Disminución en la contratación de empleados"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué es el fraude planeado según Derrig y Weisberg?",
+          "options": [
+            "Reclamaciones sin engaño",
+            "Aprovechar un siniestro real para reclamar daños inexistentes",
+            "Eventos provocados deliberadamente para obtener beneficios",
+            "Ocultación de información relevante al asegurador"
+          ],
+          "correctAnswer": 2
+        }
+      ]
     }
-    
   ]
 }
