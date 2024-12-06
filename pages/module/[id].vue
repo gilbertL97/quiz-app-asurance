@@ -1,7 +1,7 @@
 // pages/quiz.vue
 <template>
   <div class="container mx-auto px-4 py-8">
-    <template v-if="!selectedModule">
+    <template v-if="!selectedTheme">
       <ModuleSelection :modules="quizData.themes" @select="startQuiz" />
     </template>
     <template v-else>
@@ -21,7 +21,7 @@ import quizData from "@/assets/module1.json";
 import QuizQuestions from "~/components/quizQuestions.vue";
 
 const {
-  selectedModule,
+  selectedTheme,
   startQuiz,
   questions,
   currentQuestionIndex,
