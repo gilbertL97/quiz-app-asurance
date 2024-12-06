@@ -12,7 +12,9 @@ export interface QuizThemeTypes {
 }
 
 export interface QuizModule {
-  modules: QuizThemeTypes[];
+  name: string;
+  professor: string;
+  themes: QuizThemeTypes[];
 }
 export interface WrongResponse {
   question: string;

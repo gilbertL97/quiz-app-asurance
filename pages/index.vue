@@ -2,7 +2,7 @@
 <template>
   <div class="container mx-auto px-4 py-8">
     <template v-if="!selectedModule">
-      <ThemeSelector :modules="quizData.modules" @select="startQuiz" />
+      <ThemeSelector :modules="quizData.themes" @select="startQuiz" />
     </template>
     <template v-else>
       <h2 class="text-2xl font-bold mb-4">
@@ -17,7 +17,7 @@
 
 <script setup lang="ts">
 import { useQuiz } from "~/composable/usequiz";
-import quizData from "@/assets/questions.json";
+import quizData from "@/assets/module1.json";
 import QuizQuestions from "~/components/quizQuestions.vue";
 import ThemeSelector from "~/components/themeSelector.vue";
 

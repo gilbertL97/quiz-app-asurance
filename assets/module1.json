@@ -1,6 +1,7 @@
 {
-  "modules": [
-
+  "name":"Introducción al Seguro",
+  "professor":"José Carlos",
+  "themes": [
     {
       "id": "conceptos-basicos",
       "name": "Conceptos Básicos de Seguros",

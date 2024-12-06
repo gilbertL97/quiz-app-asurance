@@ -1,6 +1,6 @@
 import { ref, computed, onMounted } from "vue";
 import { useRouter } from "vue-router";
-import quizData from "@/assets/questions.json";
+import quizData from "@/assets/module1.json";
 import type {
   QuizQuestionTypes,
   QuizModule,
@@ -32,7 +32,7 @@ export function useQuiz() {
   const prepareQuestions = (moduleId: string) => {
     const module: QuizThemeTypes | undefined = (
       quizData as QuizModule
-    ).modules.find((m) => m.id === moduleId);
+    ).themes.find((m) => m.id === moduleId);
     if (!module) return;
 
     questions.value = module.questions.map((q) => {
