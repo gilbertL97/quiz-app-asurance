@@ -21,3 +21,7 @@ export interface WrongResponse {
   correctAnswer: string;
   selectedAnswer: string;
 }
+
+export interface Quiz {
+  modules: QuizModule[];
+}

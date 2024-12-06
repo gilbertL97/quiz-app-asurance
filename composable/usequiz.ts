@@ -1,6 +1,7 @@
 import { ref, computed, onMounted } from "vue";
 import { useRouter } from "vue-router";
-import quizData from "@/assets/module1.json";
+import quizData1 from "@/assets/module1.json";
+import quizData2 from "@/assets/module1.json";
 import type {
   QuizQuestionTypes,
   QuizModule,
@@ -12,13 +13,14 @@ const totalQuestions = ref(0);
 const wrongAnswers = ref<WrongResponse[]>([]);
 const rightAnswersPercent = ref<number>(0);
 const wrongAnswersPercent = ref<number>(0);
+const modules = ref<QuizModule[]>([quizData1, quizData2]);
 export function useQuiz() {
   const router = useRouter();
 
   const questions = ref<QuizQuestionTypes[]>([]);
   const currentQuestionIndex = ref(0);
 
-  const selectedModule = ref<string | null>(null);
+  const selectedTheme = ref<string | null>(null);
 
   const shuffleArray = <T>(array: T[]): T[] => {
     const newArray = [...array];
@@ -29,13 +31,13 @@ export function useQuiz() {
     return newArray;
   };
 
-  const prepareQuestions = (moduleId: string) => {
-    const module: QuizThemeTypes | undefined = (
+  const prepareQuestions = (themeId: string) => {
+    const theme: QuizThemeTypes | undefined = (
       quizData as QuizModule
-    ).themes.find((m) => m.id === moduleId);
-    if (!module) return;
+    ).themes.find((m) => m.id === themeId);
+    if (!theme) return;
 
-    questions.value = module.questions.map((q) => {
+    questions.value = theme.questions.map((q) => {
       const shuffledOptions = shuffleArray(q.options);
       const newCorrectAnswer = shuffledOptions.indexOf(
         q.options[q.correctAnswer]
@@ -51,7 +53,7 @@ export function useQuiz() {
   };
 
   const startQuiz = (moduleId: string) => {
-    selectedModule.value = moduleId;
+    selectedTheme.value = moduleId;
     prepareQuestions(moduleId);
     currentQuestionIndex.value = 0;
     score.value = 0;
@@ -102,17 +104,24 @@ export function useQuiz() {
     );
     wrongAnswersPercent.value = 100 - rightAnswersPercent.value;
   };
+
+
+  const selectModule = (moduleId: number) => {
+  }
+
+
   return {
     questions,
     currentQuestionIndex,
     score,
-    selectedModule,
+    selectedTheme,
     currentQuestion,
     quizCompleted,
     wrongAnswers,
     rightAnswersPercent,
     wrongAnswersPercent,
     totalQuestions,
+    modules,
     handleAnswer,
     startQuiz,
     finishQuiz,
