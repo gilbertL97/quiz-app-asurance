@@ -1,8 +1,8 @@
 // pages/quiz.vue
 <template>
   <div class="container mx-auto px-4 py-8">
-    <template v-if="!selectedModule">
-      <ThemeSelector :modules="quizData.themes" @select="startQuiz" />
+    <template v-if="!selectedTheme">
+      <ThemeSelector :themes="quizData.themes" @select="startQuiz" />
     </template>
     <template v-else>
       <h2 class="text-2xl font-bold mb-4">
@@ -22,7 +22,7 @@ import QuizQuestions from "~/components/quizQuestions.vue";
 import ThemeSelector from "~/components/themeSelector.vue";
 
 const {
-  selectedModule,
+  selectedTheme,
   startQuiz,
   questions,
   currentQuestionIndex,
@@ -31,5 +31,6 @@ const {
   handleAnswer,
   quizCompleted,
   finishQuiz,
+  modules
 } = useQuiz();
 </script>
