@@ -5,14 +5,14 @@ export interface QuizQuestionTypes {
   correctAnswer: number;
 }
 
-export interface QuizModuleTypes {
+export interface QuizThemeTypes {
   id: string;
   name: string;
   questions: QuizQuestionTypes[];
 }
 
-export interface QuizData {
-  modules: QuizModuleTypes[];
+export interface QuizModule {
+  modules: QuizThemeTypes[];
 }
 export interface WrongResponse {
   question: string;

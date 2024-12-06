@@ -9,9 +9,7 @@
         </template>
         <p>Este tema contiene {{ module.questions.length }} preguntas.</p>
         <template #footer>
-          <UButton @click="selectModule(module.id)"
-            >Comenzar este tema</UButton
-          >
+          <UButton @click="selectModule(module.id)">Comenzar este tema</UButton>
         </template>
       </UCard>
     </div>
@@ -19,10 +17,10 @@
 </template>
 
 <script setup lang="ts">
-import type { QuizModuleTypes } from "@/types/quiz.types";
+import type { QuizThemeTypes } from "@/types/quiz.types";
 
 const props = defineProps<{
-  modules: QuizModuleTypes[];
+  modules: QuizThemeTypes[];
 }>();
 
 const emit = defineEmits<{

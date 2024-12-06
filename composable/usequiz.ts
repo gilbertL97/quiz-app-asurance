@@ -3,8 +3,8 @@ import { useRouter } from "vue-router";
 import quizData from "@/assets/questions.json";
 import type {
   QuizQuestionTypes,
-  QuizData,
-  QuizModuleTypes,
+  QuizModule,
+  QuizThemeTypes,
   WrongResponse,
 } from "@/types/quiz.types";
 const score = ref(0);
@@ -30,8 +30,8 @@ export function useQuiz() {
   };
 
   const prepareQuestions = (moduleId: string) => {
-    const module: QuizModuleTypes | undefined = (
-      quizData as QuizData
+    const module: QuizThemeTypes | undefined = (
+      quizData as QuizModule
     ).modules.find((m) => m.id === moduleId);
     if (!module) return;
 
