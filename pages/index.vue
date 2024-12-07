@@ -1,36 +1,18 @@
 // pages/quiz.vue
 <template>
   <div class="container mx-auto px-4 py-8">
-    <template v-if="!selectedTheme">
-      <ThemeSelector :themes="quizData.themes" @select="startQuiz" />
-    </template>
-    <template v-else>
-      <h2 class="text-2xl font-bold mb-4">
-        Pregunta {{ currentQuestionIndex + 1 }} de {{ questions.length }}
-      </h2>
-      <QuizQuestions :question="currentQuestion" @answer="handleAnswer" />
-      <p class="mt-4">Puntuación actual: {{ score }}</p>
-      <UButton v-if="quizCompleted" @click="finishQuiz" class="mt-4">Finalizar Quiz</UButton>
-    </template>
+    <ModuleSelection :modules="modules" @select="selectedModule" />
   </div>
 </template>
 
 <script setup lang="ts">
 import { useQuiz } from "~/composable/usequiz";
-import quizData from "@/assets/module1.json";
-import QuizQuestions from "~/components/quizQuestions.vue";
-import ThemeSelector from "~/components/themeSelector.vue";
 
-const {
-  selectedTheme,
-  startQuiz,
-  questions,
-  currentQuestionIndex,
-  score,
-  currentQuestion,
-  handleAnswer,
-  quizCompleted,
-  finishQuiz,
-  modules
-} = useQuiz();
+const { modules, selectModule } = useQuiz();
+const selectedModule = (key: number) => {
+  selectModule(key);
+  navigateTo({
+    path: `/module/${key}`
+  })
+}
 </script>
