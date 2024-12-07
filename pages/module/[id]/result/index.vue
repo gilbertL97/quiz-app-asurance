@@ -1,17 +1,12 @@
 <template>
   <section class="dark:bg-gray-900 text-white">
-    <div
-      class="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-[90%] lg:items-center"
-    >
+    <div class="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-[90%] lg:items-center">
       <div class="mx-auto max-w-3xl text-center">
         <h3
-          class="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
-        >
+          class="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl">
           Puntuación : {{ score }} puntos
         </h3>
-        <div
-          class="flex items-center justify-center bg-green-100 rounded-md my-5"
-        >
+        <div class="flex items-center justify-center bg-green-100 rounded-md my-5">
           <strong class="text-xl font-medium text-gray-500">
             Correctas :
           </strong>
