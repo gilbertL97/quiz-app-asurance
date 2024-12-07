@@ -1,7 +1,7 @@
 import { ref, computed, onMounted } from "vue";
 import { useRouter } from "vue-router";
 import quizData1 from "@/assets/module1.json";
-import quizData2 from "@/assets/module1.json";
+import quizData2 from "@/assets/module2.json";
 import type {
   QuizQuestionTypes,
   QuizModule,
@@ -14,6 +14,7 @@ const wrongAnswers = ref<WrongResponse[]>([]);
 const rightAnswersPercent = ref<number>(0);
 const wrongAnswersPercent = ref<number>(0);
 const modules = ref<QuizModule[]>([quizData1, quizData2]);
+const selectedModule = ref<QuizModule>();
 export function useQuiz() {
   const router = useRouter();
 
@@ -33,7 +34,7 @@ export function useQuiz() {
 
   const prepareQuestions = (themeId: string) => {
     const theme: QuizThemeTypes | undefined = (
-      quizData as QuizModule
+      selectedModule.value as QuizModule
     ).themes.find((m) => m.id === themeId);
     if (!theme) return;
 
@@ -95,7 +96,6 @@ export function useQuiz() {
   };
   const finishQuiz = () => {
     calculatePercentages();
-    router.push({ path: "/result" });
   };
   const calculatePercentages = () => {
     const totalQuestions = questions.value.length;
@@ -107,6 +107,8 @@ export function useQuiz() {
 
 
   const selectModule = (moduleId: number) => {
+    selectedModule.value = modules.value[moduleId];
+    console.log(selectedModule.value)
   }
 
 
@@ -122,6 +124,7 @@ export function useQuiz() {
     wrongAnswersPercent,
     totalQuestions,
     modules,
+    selectModule,
     handleAnswer,
     startQuiz,
     finishQuiz,
