@@ -20,7 +20,7 @@
 import type { QuizThemeTypes } from "@/types/quiz.types";
 
 const props = defineProps<{
-  themes: QuizThemeTypes[];
+  themes: QuizThemeTypes[] | undefined;
 }>();
 
 const emit = defineEmits<{

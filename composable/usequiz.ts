@@ -124,6 +124,7 @@ export function useQuiz() {
     wrongAnswersPercent,
     totalQuestions,
     modules,
+    selectedModule,
     selectModule,
     handleAnswer,
     startQuiz,
