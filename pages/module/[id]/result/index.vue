@@ -29,7 +29,7 @@
           </p>
         </div>
         <div class="mt-8 flex flex-wrap justify-center gap-4">
-          <UButton class="px-12 mx-20 py-4" to="/"> Volver al Inicio </UButton>
+          <UButton class="px-12 mx-20 py-4" :to="`/module/${route.params.id}`"> Volver al Inicio </UButton>
         </div>
         <ListWrongAnswer v-if="wrongAnswers.length != 0" />
       </div>
@@ -38,7 +38,7 @@
 </template>
 <script setup lang="ts">
 import { useQuiz } from "~/composable/usequiz";
-
+const route = useRoute();
 const {
   score,
   wrongAnswers,
