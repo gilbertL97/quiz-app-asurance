@@ -1,12 +1,222 @@
 {
-  "name":"Practica Integral del Seguro",
-  "professor":"Eliana Domínguez",
-  "themes": [{
-    "name":"Coming soon",
-    "id":"coming-soon",
-    "questions": [
-      
-    ]
-  }
+  "name": "Practica Integral del Seguro",
+  "professor": "Eliana Domínguez",
+  "themes": [
+    {
+      "name": "Riesgo Tecnologico (Depto Informática)",
+      "id": "riesgo-tecnolog",
+      "questions": [
+        {
+          "question": "¿Cuál de los siguientes factores NO agrava el riesgo tecnológico?",
+          "options": [
+            "Dependencia de proveedores externos",
+            "Vulnerabilidades en el software",
+            "Ciberataques y amenazas externas",
+            "Implementación de un programa de capacitación regular"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Qué factor relacionado con el personal puede aumentar el riesgo tecnológico?",
+          "options": [
+            "Exceso de personal técnico",
+            "Falta de capacitación y conciencia",
+            "Rotación frecuente de empleados",
+            "Uso de tecnología avanzada"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "La dependencia excesiva de un único proveedor tecnológico puede resultar en:",
+          "options": [
+            "Mayor eficiencia operativa",
+            "Reducción de costos a largo plazo",
+            "Aumento de la seguridad informática",
+            "Vulnerabilidad ante fallos del proveedor"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Qué factor se refiere a las debilidades en el software que pueden ser explotadas?",
+          "options": [
+            "Ciberataques y Amenazas Externas",
+            "Vulnerabilidades en el Software",
+            "Falta de Capacitación y Conciencia",
+            "Dependencia de Proveedores Externos"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Las vulnerabilidades en el software pueden ser explotadas principalmente por:",
+          "options": [
+            "Empleados descontentos",
+            "Ciberataques y amenazas externas",
+            "Proveedores de servicios",
+            "Fallos en el hardware"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál es el objetivo principal de las estrategias para disminuir el riesgo tecnológico?",
+          "options": [
+            "Aumentar la complejidad de los sistemas",
+            "Reducir la probabilidad y el impacto de los riesgos",
+            "Eliminar todos los riesgos",
+            "Aumentar la dependencia de proveedores externos"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué estrategia se utiliza para identificar y evaluar los riesgos tecnológicos?",
+          "options": [
+            "Desarrollo de un Plan Integral",
+            "Evaluación y Priorización de Riesgos",
+            "Fortalecimiento de la Ciberseguridad",
+            "Contratación de Expertos"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué es fundamental para implementar estrategias efectivas contra el riesgo tecnológico?",
+          "options": [
+            "Monitoreo continuo",
+            "Desarrollo de un Plan Integral de Gestión de Riesgos",
+            "Capacitación del personal",
+            "Actualización constante de software"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál de las siguientes opciones NO es una estrategia para disminuir el riesgo tecnológico?",
+          "options": [
+            "Fortalecimiento de la Ciberseguridad",
+            "Planes de Recuperación ante Desastres",
+            "Inversión en tecnología obsoleta",
+            "Capacitación Regular del Personal"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "La redundancia y disponibilidad continua son estrategias que buscan:",
+          "options": [
+            "Aumentar el tiempo de inactividad del sistema",
+            "Asegurar que los sistemas críticos estén siempre operativos",
+            "Reducir la capacitación del personal",
+            "Evitar la actualización del software"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué estrategia se centra en preparar a la organización para responder ante incidentes?",
+          "options": [
+            "Monitoreo Continuo",
+            "Planes de Recuperación ante Desastres",
+            "Evaluación y Priorización de Riesgos",
+            "Contratación de Expertos en Ciberseguridad"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "El fortalecimiento de la ciberseguridad implica:",
+          "options": [
+            "Desproteger los sistemas críticos",
+            "Implementar medidas preventivas contra ciberataques",
+            "Reducir el uso de tecnología moderna",
+            "Ignorar las amenazas externas"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál es una función clave del monitoreo continuo en la gestión del riesgo tecnológico?",
+          "options": [
+            "Identificar vulnerabilidades en tiempo real",
+            "Limitar el acceso a información crítica",
+            "Desactivar las medidas de seguridad existentes",
+            "Evitar la capacitación del personal"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "La actualización constante de software ayuda a:",
+          "options": [
+            "Cerrar vulnerabilidades conocidas",
+            "Aumentar la complejidad del sistema",
+            "Disminuir la seguridad general del sistema",
+            "Ignorar las recomendaciones del proveedor"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué papel juegan los expertos en ciberseguridad en las estrategias para disminuir el riesgo tecnológico?",
+          "options": [
+            "Proporcionan conocimientos especializados para proteger los sistemas",
+            "Desconocen las amenazas actuales",
+            "Solo se enfocan en hardware obsoleto",
+            "No son necesarios si se tiene un buen software"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál es el propósito principal de la Gestión de Dispositivos Móviles (MDM)?",
+          "options": [
+            "Aumentar el uso de dispositivos personales en el trabajo",
+            "Rastrear y proteger los dispositivos móviles en la red corporativa",
+            "Eliminar la necesidad de dispositivos móviles en el entorno laboral",
+            "Permitir el acceso ilimitado a datos corporativos desde cualquier dispositivo"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué implica la Actualización y Parchado Regular en la minimización del riesgo tecnológico?",
+          "options": [
+            "Ignorar las actualizaciones de software",
+            "Aplicar parches solo cuando ocurra un problema",
+            "Identificar e implementar parches y actualizaciones en sistemas y aplicaciones",
+            "Actualizar el hardware cada mes"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "En el contexto del Desarrollo Seguro de Software, ¿qué es el S-SDLC?",
+          "options": [
+            "Sistema de Seguridad Digital para Lenguajes de Computación",
+            "Secure Software Development Life Cycle",
+            "Solución de Seguridad para Desarrolladores de Lenguajes Complejos",
+            "Sistema de Supervisión de Desarrollo de Lenguajes Compilados"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál es un componente clave de la Copia de Seguridad y Recuperación?",
+          "options": [
+            "Eliminar datos antiguos para ahorrar espacio",
+            "Crear duplicados de datos para restaurarlos en caso de pérdida",
+            "Compartir datos con otras empresas",
+            "Almacenar todos los datos en un solo lugar"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Qué aspecto es fundamental en la Capacitación Continua del Personal para minimizar riesgos tecnológicos?",
+          "options": [
+            "Enseñar solo a los empleados del departamento de TI",
+            "Realizar una única sesión de capacitación al año",
+            "Educar a todo el personal sobre las últimas amenazas y prácticas de seguridad",
+            "Enfocarse únicamente en el uso de software específico"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Qué implica el Monitoreo y Auditoría Continua en la gestión del riesgo tecnológico?",
+          "options": [
+            "Revisar los sistemas una vez al año",
+            "Ignorar las alertas de seguridad",
+            "Supervisar constantemente los sistemas y realizar auditorías regulares",
+            "Delegar toda la responsabilidad al proveedor de servicios"
+          ],
+          "correctAnswer": 2
+        }
+      ]
+    }
   ]
 }
