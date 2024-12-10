@@ -233,6 +233,16 @@
           "correctAnswer": 0
         },
         {
+          "question": "¿Cuál de los siguientes riesgos se refiere a pérdidas debido a cambios en el mercado?",
+          "options": [
+            "Riesgo de Suscripción",
+            "Riesgo de Mercado",
+            "Riesgo ALM",
+            "Riesgo de Liquidez"
+          ],
+          "correctAnswer": 1
+        },
+        {
           "question": "¿Cuál de los siguientes riesgos se refiere a la incapacidad para cumplir con obligaciones financieras a corto plazo?",
           "options": [
             "Riesgo de Suscripción",
@@ -321,6 +331,136 @@
             "Riesgo Reputacional"
           ],
           "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál de las siguientes estrategias de gestión del riesgo implica evitar o eliminar completamente el riesgo?",
+          "options": [
+            "Evitar",
+            "Mitigar",
+            "Asumir",
+            "Transferir"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál de las siguientes estrategias de gestión del riesgo se refiere a implementar medidas preventivas para reducir la probabilidad o el impacto de los riesgos?",
+          "options": [
+            "Evitar",
+            "Mitigar",
+            "Asumir",
+            "Transferir"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál de las siguientes estrategias de gestión del riesgo implica aceptar ciertos riesgos como parte del negocio, siempre que se cuente con suficiente capital para cubrir posibles pérdidas?",
+          "options": [
+            "Evitar",
+            "Mitigar",
+            "Asumir",
+            "Transferir"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Cuál de las siguientes estrategias de gestión del riesgo implica transferir parte del riesgo a otras entidades a cambio de una prima?",
+          "options": [
+            "Evitar",
+            "Mitigar",
+            "Asumir",
+            "Transferir"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál de los siguientes tipos de riesgos afecta directamente la situación financiera de la aseguradora?",
+          "options": [
+            "Riesgo de Mercado",
+            "Riesgo de Crédito",
+            "Riesgo Operativo",
+            "Riesgo Legal"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál de los siguientes tipos de riesgos no está directamente relacionado con las finanzas pero puede afectar la operación general de la aseguradora?",
+          "options": [
+            "Riesgo de Mercado",
+            "Riesgo de Crédito",
+            "Riesgo Operativo",
+            "Riesgo Legal"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Cuál de los siguientes tipos de riesgos solo puede resultar en pérdidas y es típicamente asegurable?",
+          "options": [
+            "Riesgo Puro",
+            "Riesgo Especulativo",
+            "Riesgo Fundamental",
+            "Riesgo Particular"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál de los siguientes tipos de riesgos implica la posibilidad de ganar o perder y no es asegurable?",
+          "options": [
+            "Riesgo Puro",
+            "Riesgo Especulativo",
+            "Riesgo Fundamental",
+            "Riesgo Particular"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál de los siguientes tipos de riesgos afecta a grandes grupos de personas o entidades?",
+          "options": [
+            "Riesgo Puro",
+            "Riesgo Especulativo",
+            "Riesgo Fundamental",
+            "Riesgo Particular"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Cuál de los siguientes tipos de riesgos afecta a individuos o grupos específicos?",
+          "options": [
+            "Riesgo Puro",
+            "Riesgo Especulativo",
+            "Riesgo Fundamental",
+            "Riesgo Particular"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál de los siguientes componentes del riesgo se refiere a la naturaleza impredecible de los eventos que pueden causar pérdidas?",
+          "options": [
+            "Incertidumbre",
+            "Nivel de Riesgo",
+            "Peligro y Hazarosidad",
+            "Impacto"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál de los siguientes componentes del riesgo se evalúa en función de la frecuencia y severidad de los eventos?",
+          "options": [
+            "Incertidumbre",
+            "Nivel de Riesgo",
+            "Peligro y Hazarosidad",
+            "Impacto"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuál de los siguientes componentes del riesgo incluye identificar peligros potenciales y su capacidad para causar daño?",
+          "options": [
+            "Incertidumbre",
+            "Nivel de Riesgo",
+            "Peligro y Hazarosidad",
+            "Impacto"
+          ],
+          "correctAnswer": 2
         }
       ]
     }
