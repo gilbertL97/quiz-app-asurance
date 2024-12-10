@@ -217,6 +217,112 @@
           "correctAnswer": 2
         }
       ]
+    },
+    {
+      "name": "Riesgo en Empresa de seguro",
+      "id": "riesgo-seguro",
+      "questions": [
+        {
+          "question": "¿Cuál de los siguientes riesgos es el más directamente relacionado con la incertidumbre sobre si las primas cobradas serán suficientes para cubrir las reclamaciones?",
+          "options": [
+            "Riesgo de Suscripción",
+            "Riesgo de Mercado",
+            "Riesgo ALM",
+            "Riesgo de Liquidez"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál de los siguientes riesgos se refiere a la incapacidad para cumplir con obligaciones financieras a corto plazo?",
+          "options": [
+            "Riesgo de Suscripción",
+            "Riesgo de Mercado",
+            "Riesgo ALM",
+            "Riesgo de Liquidez"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál de los siguientes riesgos se relaciona con la gestión del equilibrio entre activos y pasivos?",
+          "options": [
+            "Riesgo de Suscripción",
+            "Riesgo de Mercado",
+            "Riesgo ALM",
+            "Riesgo de Liquidez"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "¿Cuál de los siguientes riesgos surge cuando un prestatario no cumple con sus obligaciones financieras?",
+          "options": [
+            "Riesgo de Suscripción",
+            "Riesgo de Mercado",
+            "Riesgo ALM",
+            "Riesgo de Crédito"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál de los siguientes riesgos ocurre cuando una aseguradora tiene una exposición excesiva a un único riesgo o grupo de riesgos relacionados?",
+          "options": [
+            "Riesgo de Suscripción",
+            "Riesgo de Mercado",
+            "Riesgo ALM",
+            "Riesgo de Concentración"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál de los siguientes riesgos resulta de fallos en los procesos internos, sistemas o personas, así como por eventos externos que impactan las operaciones?",
+          "options": [
+            "Riesgo de Suscripción",
+            "Riesgo de Mercado",
+            "Riesgo ALM",
+            "Riesgo Operativo"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál de los siguientes riesgos se relaciona con las posibles pérdidas derivadas de litigios o incumplimientos legales?",
+          "options": [
+            "Riesgo de Suscripción",
+            "Riesgo de Mercado",
+            "Riesgo ALM",
+            "Riesgo Legal"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál de los siguientes riesgos implica amenazas relacionadas con la tecnología?",
+          "options": [
+            "Riesgo de Suscripción",
+            "Riesgo de Mercado",
+            "Riesgo ALM",
+            "Riesgo Tecnológico"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál de los siguientes riesgos está asociado a decisiones estratégicas que pueden afectar el rendimiento a largo plazo de la aseguradora?",
+          "options": [
+            "Riesgo de Suscripción",
+            "Riesgo de Mercado",
+            "Riesgo ALM",
+            "Riesgo Estratégico"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "¿Cuál de los siguientes riesgos se refiere a la posibilidad de que la percepción pública negativa afecte la confianza y, por ende, la estabilidad financiana de la aseguradora?",
+          "options": [
+            "Riesgo de Suscripción",
+            "Riesgo de Mercado",
+            "Riesgo ALM",
+            "Riesgo Reputacional"
+          ],
+          "correctAnswer": 3
+        }
+      ]
     }
   ]
 }
