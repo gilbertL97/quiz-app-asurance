@@ -463,6 +463,62 @@
           "correctAnswer": 2
         }
       ]
+    },
+    {
+      "name": "Provisiones Tecnicas",
+      "id": "provisiones-tecnicas",
+      "questions": [
+        {
+          "question": "¿Cuál es la principal función de las provisiones técnicas en una aseguradora?",
+          "options": [
+            "Respaldar Obligaciones",
+            "Representación en el Balance",
+            "Generar Ingresos",
+            "Reducir Costos"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué representa las provisiones técnicas en el pasivo del balance de una entidad aseguradora?",
+          "options": [
+            "Deuda con Reaseguradores",
+            "Deuda con Asegurados",
+            "Patrimonio Neto",
+            "Pasivo Corriente"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Por qué son importantes los principios que regulan las inversiones de las provisiones técnicas?",
+          "options": [
+            "Para Maximizar Ganancias",
+            "Para Garantizar Cumplimiento de Obligaciones",
+            "Para Minimizar Costos",
+            "Para Simplificar la Contabilidad"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "¿Cuáles son las provisiones para las obligaciones por prima?",
+          "options": [
+            "Provisones Para Riesgo en curso",
+            "Provisiones Tecnicas para siniestros pendientes de liquidación",
+            "Provisiones Tecnicas para desviacion de la siniestralidad",
+            "Provisiones Tecnicas para riesgos catastroficos"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál no es la provision para las obligaciones por siniestros?",
+          "options": [
+            "Provisones Para Riesgo en curso",
+            "Provisiones Tecnicas para siniestros pendientes de declaracion (IBNR)",
+            "Provisiones Tecnicas para desviacion de la siniestralidad",
+            "Provisiones Tecnicas para riesgos catastroficos"
+          ],
+          "correctAnswer": 0
+        }
+      ]
     }
   ]
 }
