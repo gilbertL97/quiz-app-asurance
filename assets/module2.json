@@ -447,7 +447,7 @@
           "options": [
             "Incertidumbre",
             "Nivel de Riesgo",
-            "Peligro y Hazarosidad",
+            "Otros",
             "Impacto"
           ],
           "correctAnswer": 1
@@ -456,7 +456,7 @@
           "question": "¿Cuál de los siguientes componentes del riesgo incluye identificar peligros potenciales y su capacidad para causar daño?",
           "options": [
             "Incertidumbre",
-            "Nivel de Riesgo",
+            "Otros",
             "Peligro y Hazarosidad",
             "Impacto"
           ],
@@ -517,8 +517,199 @@
             "Provisiones Tecnicas para riesgos catastroficos"
           ],
           "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué representan las provisiones técnicas en las entidades aseguradoras?",
+          "options": [
+            "Obligaciones derivadas de contratos de seguro",
+            "Activos líquidos disponibles",
+            "Inversiones en bienes raíces",
+            "Primas no cobradas"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál es el objetivo de la Provisión de Riesgos en Curso?",
+          "options": [
+            "Periodizar los ingresos por primas",
+            "Establecer primas para el próximo año",
+            "Liquidar siniestros pendientes",
+            "Invertir en acciones"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué incluye la Provisión de Siniestros Pendientes de Liquidación?",
+          "options": [
+            "Importes estimados de siniestros ocurridos y reportados",
+            "Primas futuras a cobrar",
+            "Gastos de publicidad",
+            "Costos de adquisición"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué cubre la Provisión de Siniestros Pendientes de Declaración?",
+          "options": [
+            "Siniestros ocurridos pero no reportados antes del cierre del periodo económico",
+            "Primas no cobradas por los asegurados",
+            "Costos de adquisición de pólizas nuevas",
+            "Gastos operativos generales"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "La Desviación de Siniestralidad se establece para:",
+          "options": [
+            "Cubrir desviaciones en la siniestralidad esperada",
+            "Ajustar las primas anuales",
+            "Calcular riesgos catastróficos",
+            "Proveer gastos administrativos"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Las provisiones técnicas son parte del:",
+          "options": [
+            "Pasivo del balance de una aseguradora",
+            "Activo circulante",
+            "Capital social",
+            "Inversiones a largo plazo"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Los Riesgos Catastróficos son cubiertos por:",
+          "options": [
+            "Provisión destinada a eventos de gran impacto natural",
+            "Provisión para gastos administrativos",
+            "Provisión para inversiones en tecnología",
+            "Provisión para primas no cobradas"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "La Provisión de Siniestros Pendientes incluye:",
+          "options": [
+            "Importe estimado para siniestros ocurridos y reportados",
+            "Gastos en inversiones líquidas",
+            "Gastos en activos fijos",
+            "Gastos en reservas no utilizadas"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Las provisiones técnicas deben reflejar:",
+          "options": [
+            "El importe actual que un asegurador tendría que pagar si transfiriera sus obligaciones",
+            "Gastos en inversiones líquidas",
+            "Gastos en activos fijos",
+            "Gastos en reservas no utilizadas"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué componentes incluye la Provisión de Riesgos en Curso?",
+          "options": [
+            "Gastos de administración, utilidad y recargos catastróficos",
+            "Gastos en publicidad y marketing",
+            "Gastos en comisiones a agentes",
+            "Gastos en inversiones a largo plazo"
+          ],
+          "correctAnswer": 0
         }
       ]
+    },
+    {
+      "name": "Proceso de Reclamaciones",
+      "id": "proceso-suscripcione",
+      "questions": [
+        {
+          "question": "¿Cuál es uno de los objetivos principales de la Gerencia de Reclamaciones?",
+          "options": [
+            "Minimizar el costo de las reclamaciones",
+            "Aumentar las primas de las pólizas",
+            "Expandir la cobertura del seguro",
+            "Reducir el número de asegurados"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué labor realizan los Especialistas de Reclamaciones?",
+          "options": [
+            "Colaborar y asistir al Asegurado",
+            "Diseñar nuevas pólizas de seguro",
+            "Realizar auditorías financieras",
+            "Negociar con proveedores externos"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál de los siguientes es un aspecto clave en la verificación de reclamaciones?",
+          "options": [
+            "Pago de la prima o compromiso de pago",
+            "Número de pólizas vendidas",
+            "Cantidad de siniestros reportados",
+            "Duración del contrato"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Los aseguradores generalmente no rechazan reclamaciones cuando:",
+          "options": [
+            "La omisión o declaración falsa no hubiera afectado la valoración del riesgo",
+            "El asegurado no pagó la prima a tiempo",
+            "El riesgo no estaba cubierto por la póliza",
+            "La reclamación fue presentada fuera del plazo"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué deben confirmar los especialistas al verificar una reclamación?",
+          "options": [
+            "Que la pérdida fue causada por un riesgo cubierto",
+            "Que el asegurado tiene múltiples pólizas",
+            "Que se han realizado auditorías previas",
+            "Que el ajuste fue realizado por un tercero"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué implica el proceso de ajuste en las reclamaciones?",
+          "options": [
+            "Elaborar el ajuste para determinar el monto a pagar",
+            "Revisar las primas anuales del asegurado",
+            "Investigar fraudes potenciales en otras áreas",
+            "Negociar con otros aseguradores"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué se verifica en relación al interés asegurable del cliente?",
+          "options": [
+            "Que el cliente tiene un interés legítimo en el objeto asegurado",
+            "Que el cliente ha pagado todas sus primas a tiempo",
+            "Que el cliente tiene otras pólizas con la misma aseguradora",
+            "Que el cliente ha presentado reclamaciones anteriores"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué se busca lograr al pagar la pérdida lo antes posible?",
+          "options": [
+            "Satisfacción del asegurado y cumplimiento contractual",
+            "Reducción de costos operativos a largo plazo",
+            "Incremento en las ventas futuras de pólizas",
+            "Mejoramiento en la reputación financiera"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Reclamaciones",
+      "id": "proceso-suscripcione",
+      "questions": []
     }
   ]
 }
