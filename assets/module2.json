@@ -622,10 +622,10 @@
     },
     {
       "name": "Proceso de Reclamaciones",
-      "id": "proceso-suscripcione",
+      "id": "proceso-reclamaciones",
       "questions": [
         {
-          "question": "¿Cuál es uno de los objetivos principales de la Gerencia de Reclamaciones?",
+          "question": "¿Cuál es uno de los objetivos principales de la Gestión de Reclamaciones?",
           "options": [
             "Minimizar el costo de las reclamaciones",
             "Aumentar las primas de las pólizas",
@@ -709,7 +709,218 @@
     {
       "name": "Proceso de Reclamaciones",
       "id": "proceso-suscripcione",
-      "questions": []
+      "questions": [
+        {
+          "question": "¿Cuál es una de las tareas principales en el proceso de suscripción?",
+          "options": [
+            "Desarrollo de nuevos productos para el mercado",
+            "Gestión de recursos humanos",
+            "Capacitación de vendedores",
+            "Análisis de competencia"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué se considera en la política de suscripción?",
+          "options": [
+            "Capacidad de la empresa",
+            "Estrategias de marketing",
+            "Presupuesto de publicidad",
+            "Histórico de ventas"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál es el primer paso clave en la suscripción de un riesgo?",
+          "options": [
+            "Evaluación de la solicitud de seguro",
+            "Cotización según normas",
+            "Recopilación de información de mercado",
+            "Establecer términos de cobertura"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué alternativas se consideran en el análisis de riesgos?",
+          "options": [
+            "Programas de prevención de pérdidas",
+            "Estrategias de expansión",
+            "Reducción de personal",
+            "Cambios en estructura organizacional"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál es un objetivo del proceso de cotización?",
+          "options": [
+            "Cubrir reclamaciones y gastos",
+            "Reducir número de clientes",
+            "Eliminar riesgos",
+            "Disminuir coberturas"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué métodos se utilizan para calcular tasas?",
+          "options": [
+            "Método de juicio",
+            "Método de marketing",
+            "Método de ventas",
+            "Método de publicidad"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué representa la prima?",
+          "options": [
+            "Costo de la probabilidad media teórica de siniestro",
+            "Costo total de operación",
+            "Ingreso bruto de la empresa",
+            "Ganancia proyectada"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cómo se calcula la tarifa pura?",
+          "options": [
+            "Frecuencia * Severidad",
+            "Gastos * Número de clientes",
+            "Primas * Número de siniestros",
+            "Riesgo * Cobertura"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué incluye la prima de inventario?",
+          "options": [
+            "Prima pura más gastos administrativos",
+            "Solo primas de seguros",
+            "Gastos de marketing",
+            "Comisiones de vendedores"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué componentes incluye la prima comercial o total?",
+          "options": [
+            "Prima pura, gastos administrativos, gastos de adquisición, utilidad, recargos de seguridad",
+            "Solo primas de seguros",
+            "Gastos de marketing",
+            "Salarios de empleados"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál es la importancia de la suscripción?",
+          "options": [
+            "Gestionar y mitigar riesgos",
+            "Aumentar número de clientes",
+            "Reducir coberturas",
+            "Eliminar competencia"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué se evalúa en la suscripción de un riesgo?",
+          "options": [
+            "Riesgos, asegurados, precios, términos de cobertura",
+            "Estrategias de marketing",
+            "Estructura organizacional",
+            "Presupuesto publicitario"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué tipos de tasas existen?",
+          "options": [
+            "Tasas establecidas en manual, tasas individuales, tasas de juicio",
+            "Tasas de marketing",
+            "Tasas de ventas",
+            "Tasas de publicidad"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué se considera en la política de suscripción?",
+          "options": [
+            "Regulaciones estatales",
+            "Estrategias de marketing",
+            "Presupuesto de publicidad",
+            "Histórico de ventas"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué es la frecuencia en los cálculos técnicos?",
+          "options": [
+            "Número de ocurrencias en un período",
+            "Número total de clientes",
+            "Número de pólizas vendidas",
+            "Número de oficinas"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué es la severidad?",
+          "options": [
+            "Magnitud de la pérdida",
+            "Número de siniestros",
+            "Costo total de operación",
+            "Número de empleados"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué recursos se consideran en la política de suscripción?",
+          "options": [
+            "Recursos humanos disponibles",
+            "Presupuesto de marketing",
+            "Recursos tecnológicos",
+            "Recursos de publicidad"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué protecciones se consideran en la suscripción?",
+          "options": [
+            "Protecciones de reaseguro",
+            "Protecciones de marketing",
+            "Protecciones de ventas",
+            "Protecciones de publicidad"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué se busca con la prima pura?",
+          "options": [
+            "Representar el costo básico del riesgo",
+            "Aumentar las ganancias",
+            "Reducir los costos operativos",
+            "Eliminar competencia"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Cuál es el último paso en el proceso de suscripción?",
+          "options": [
+            "Informar decisiones (puede incluir rechazo del negocio)",
+            "Realizar marketing",
+            "Contratar personal",
+            "Establecer nuevas oficinas"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "¿Qué busca garantizar el proceso de cotización?",
+          "options": [
+            "Una ganancia razonable",
+            "Eliminar todos los riesgos",
+            "Reducir número de clientes",
+            "Aumentar costos"
+          ],
+          "correctAnswer": 0
+        }
+      ]
     }
   ]
 }
