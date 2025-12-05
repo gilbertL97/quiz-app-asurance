@@ -1,0 +1,617 @@
+{
+    "name": "Pruebas de concursos para yanelys",
+    "professor": "Gilbert Luis jjjjj",
+    "themes": [
+        {
+            "id": "prueba-2023",
+            "name": "Prueba 2023",
+            "questions": [
+                {
+                    "question": "De acordo com a leitura, assinale a alternativa correta.",
+                    "options": [
+                        "Posições diferentes não alteram a vista do observador.",
+                        "A mesma paisagem torna-se mais extensa se observada do alto.",
+                        "A paisagem é diferente se vista por dois observadores na mesma posição.",
+                        "O observador na rua vê a paisagem mais extensa do que aquele que vê do alto.",
+                        "A mesma paisagem torna-se mais extensa se observada da rua."
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "question": "De acordo com o texto, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) “No primeiro caso”, refere-se ao observador na rua.\n( ) “Isso quer dizer”, refere-se à influência da posição do observador na visão da paisagem.\n( ) “Portanto”, pode ser substituído por: mas, porém, contudo.\n( ) “Por exemplo”, refere-se ao exemplo de posicionamento de observação.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
+                    "options": [
+                        "V- V- F- F.",
+                        "V- F- V- F.",
+                        "F- F- V- V.",
+                        "F- V- V- V.",
+                        "F- V- F- V."
+                    ],
+                    "correctAnswer": 4
+                },
+                {
+                    "question": "No texto acima, o trecho “a paisagem observada será bem mais extensa” refere-se ao fato de que a paisagem observada será mais:",
+                    "options": [
+                        "Intensa, viva.",
+                        "Próxima, pormenorizada.",
+                        "Longa, ampla.",
+                        "Curta, menor.",
+                        "Pormenorizada, menor."
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "No trecho “a paisagem observada será bem mais extensa do que aquela vista pela pessoa que está no plano da rua”, assinale a alternativa que apresenta a relação de sentido entre as orações acima.",
+                    "options": [
+                        "Comparação.",
+                        "Condição.",
+                        "Finalidade.",
+                        "Causalidade.",
+                        "Concessão."
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "question": "Em “Portanto, ao observar determinada paisagem, é importante considerar sua posição em relação a ela.”, assinale a alternativa em que se remete ao pronome “ela”.",
+                    "options": [
+                        "A observadora.",
+                        "A posição.",
+                        "A paisagem.",
+                        "A cidade.",
+                        "A consideração."
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "Em relação ao uso ou não da crase, analise a frase abaixo.\n______ terças-feiras, iremos______ aula de judô que fica______ poucos metros daqui.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+                    "options": [
+                        "Às/ a/ à.",
+                        "As/ à/ à.",
+                        "Às/ a/ a.",
+                        "As/ a/ a.",
+                        "Às/ à/ a."
+                    ],
+                    "correctAnswer": 4
+                },
+                {
+                    "question": "Em relação à concordância, assinale a alternativa incorreta.",
+                    "options": [
+                        "Hoje, havia menos cadeiras na sala.",
+                        "É proibida a entrada.",
+                        "Nesta manhã, ela estava meia sonolenta.",
+                        "A planilha anexa contém o relatório de ontem.",
+                        "É permitida a venda de mercadorias."
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "Assinale a alternativa correta, em que o termo “vencedor” é um substantivo.",
+                    "options": [
+                        "Ela ganhou o prêmio vencedor.",
+                        "O vencedor foi o que ganhou também a última corrida.",
+                        "O prêmio será do trabalho vencedor.",
+                        "O melhor será o participante vencedor da disputa.",
+                        "O aluno vencedor será aquele que acertar o resultado do problema."
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "question": "Analise as afirmativas abaixo em relação à regência verbal.\nI. Visamos ao sucesso, sempre!\nII. Chegamos para o local indicado no mapa.\nIII. Os treinadores físicos e médicos assistiram o jogador contundido.\nEstão corretas as afirmativas:",
+                    "options": [
+                        "I apenas.",
+                        "I, II e III.",
+                        "I e II apenas.",
+                        "II e III apenas.",
+                        "I e III apenas."
+                    ],
+                    "correctAnswer": 4
+                },
+                {
+                    "question": "Analise as frases abaixo.\nDepois do exame, vocês estarão aptos______ dirigir.\nAquele era um problema fácil______ se resolver.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+                    "options": [
+                        "para, em.",
+                        "de, a.",
+                        "a, de.",
+                        "como, a fim de",
+                        "por, que."
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "Assinale a alternativa correta em relação ao texto, que se define como sendo do gênero textual.",
+                    "options": [
+                        "Crônica – trata de acontecimentos corriqueiros do cotidiano.",
+                        "Diário – relatos de experiências e fatos cotidianos de uma pessoa.",
+                        "Relatório – expõe resultados de uma atividade realizada.",
+                        "Biografia – relata a vida de uma pessoa, seu legado, suas experiências.",
+                        "Reportagem – transmitem informações aos leitores."
+                    ],
+                    "correctAnswer": 4
+                },
+                {
+                    "question": "O texto acima é predominantemente:",
+                    "options": [
+                        "Injuntivo.",
+                        "Narrativo.",
+                        "Descritivo.",
+                        "Dissertativo.",
+                        "Argumentativo."
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "Assinale a alternativa incorreta.",
+                    "options": [
+                        "Cusco foi nomeada Patrimônio Cultural da Humanidade.",
+                        "A pequena cidade do Peru fica situada em região de clima frio.",
+                        "Para os incas, quanto maior a altura, mais a felicidade é proporcionada.",
+                        "As construções são preservadas pelos antigos incas.",
+                        "O “umbigo do mundo” fica no alto das Cordilheiras dos Andes."
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "Leia o trecho no texto Cusco: “...O local, que atrai turistas de todas as partes, está localizado em uma região de clima seco e frio o que ajuda a preservar construções dos antigos povos incas que se misturam com prédios de estilo colonial”. Assinale a alternativa incorreta, em relação às palavras grifadas.",
+                    "options": [
+                        "“O local...”: “local” retoma Cusco.",
+                        "“O local que atrai turistas...”: “que” retoma local.",
+                        "Está localizado em uma região de clima seco e frio o que ajuda a preservar...”: “o que” retoma “localizado em uma região de clima seco e frio”.",
+                        "...Antigos povos incas que se misturam...”: que retoma “antigos povos incas”.",
+                        "...Antigos povos incas que se misturam...”: que retoma “se misturam”."
+                    ],
+                    "correctAnswer": 4
+                },
+                {
+                    "question": "No trecho: “Vários templos, palácios e fortalezas centenárias estão espalhadas pela cidade...”, a palavra sublinhada pode ser substituída por:",
+                    "options": [
+                        "Energias, vigorosas.",
+                        "Forças morais, resistências.",
+                        "Fortes, construções fortificadas.",
+                        "Corpulentas, musculosas.",
+                        "Sólidas, saudáveis."
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "Em relação ao uso dos verbos, analise as frases abaixo.\nSe eu______ bem como você,______-me em um concurso e______ para que todos me______.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
+                    "options": [
+                        "canto/ inscreveria/ cantei/ ouvir.",
+                        "cantasse/ inscreveria/ cantasse/ ouvirem.",
+                        "cantei/ inscrevi/ cantei/ ouvirão.",
+                        "cantasse/ inscreveria/ cantaria/ ouvissem.",
+                        "canto/ inscrevi/ cantaria/ ouvissem."
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "Em relação à ortografia das palavras sublinhadas, assinale a alternativa incorreta.",
+                    "options": [
+                        "A auto-estima do garoto ficou ainda mais abalada.",
+                        "Ficou faltando muita infraestrutura nas construções mais novas.",
+                        "Os micro-ônibus são mais ágeis nas ruas da cidade.",
+                        "Todos ficaram temendo um contra-ataque.",
+                        "O ex-prefeito prestou declarações à polícia."
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "question": "Dada a equação linear 3x - 2 = 5 - 2x, assinale a alternativa que apresenta o único valor da incógnita x que satisfaça a igualdade.",
+                    "options": [
+                        "7/5",
+                        "3/2",
+                        "2/5",
+                        "5/7",
+                        "2/3"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "question": "A coordenada x do vértice da parábola da equação y = -(x + 5)(x + 1) será:",
+                    "options": [
+                        "-3",
+                        "-1",
+                        "0",
+                        "1",
+                        "3"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "question": "Para restaurar o preço original de um produto após um desconto de 20%, é preciso aplicar um aumento de______ sobre o preço com desconto.",
+                    "options": [
+                        "20%",
+                        "21%",
+                        "23%",
+                        "25%",
+                        "27%"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "Assinale a alternativa que identifica corretamente o valor da razão de uma PG em que o primeiro termo é 3 e o quinto termo é 243.",
+                    "options": [
+                        "2,0",
+                        "2,5",
+                        "3,0",
+                        "3,5",
+                        "4,0"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "Dada a sequência numérica: 4, 9, x, 25, 36,... o valor de x será:",
+                    "options": [
+                        "13",
+                        "17",
+                        "14",
+                        "18",
+                        "16"
+                    ],
+                    "correctAnswer": 4
+                },
+                {
+                    "question": "Em uma turma de 30 alunos, 18 preferem matemática, 12 preferem português e 6 não gostam de nenhuma das duas disciplinas. A quantidade de alunos que gostam tanto de matemática como de português é de:",
+                    "options": [
+                        "4 estudantes",
+                        "6 estudantes",
+                        "7 estudantes",
+                        "8 estudantes",
+                        "10 estudantes"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "question": "Considere a seguinte sequência de números: -1, 3, -5, 7,... Com base nesse padrão, pode-se afirmar que o próximo número que deve aparecer na sequência será:",
+                    "options": [
+                        "-2",
+                        "9",
+                        "8",
+                        "-9",
+                        "-11"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "Assinale a alternativa que corresponda, respectivamente, às razões 3/4, 1/2, 2/3, 1/4 em ordem crescente:",
+                    "options": [
+                        "D- C- B- A",
+                        "A- B- C- D",
+                        "C- A- D- B",
+                        "B- D- A- C",
+                        "D- B- C- A"
+                    ],
+                    "correctAnswer": 4
+                },
+                {
+                    "question": "Considerando que o valor de PI é aproximadamente 3,14, o perímetro de um círculo com raio de 5 cm é igual a:",
+                    "options": [
+                        "15,7 cm",
+                        "10,0 cm",
+                        "47,1 cm",
+                        "62,8 cm",
+                        "31,4 cm"
+                    ],
+                    "correctAnswer": 4
+                },
+                {
+                    "question": "Um time de basquete tem 5 jogadores em quadra. De quantas maneiras diferentes esses jogadores podem receber a bola, se cada jogador receber a bola exatamente uma única vez?",
+                    "options": [
+                        "4",
+                        "25",
+                        "60",
+                        "120",
+                        "240"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "Assinale a alternativa que corresponda ao maior número. Esse número é o triplo do outro e a soma de ambos é igual a 16.",
+                    "options": [
+                        "4",
+                        "16",
+                        "12",
+                        "8",
+                        "10"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "Assinale a alternativa que identifica corretamente a intersecção entre os conjuntos A = {1, 2, 5, 6, 7}, B = {2, 3, 4, 5, 6, 7} e C = {0, 1, 2, 3, 4, 5}.",
+                    "options": [
+                        "{2, 3, 5}",
+                        "{2, 5}",
+                        "{6, 7}",
+                        "{1, 2, 5}",
+                        "{1, 2, 3, 4, 5}"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "question": "Dada a função f(x) = x + 1, assinale a alternativa que descreva corretamente seu gráfico:",
+                    "options": [
+                        "Uma reta vertical que passa pelo ponto (1, 0)",
+                        "Uma reta crescente que passa pelo ponto (0, 1)",
+                        "Uma reta horizontal que passa pelo ponto (0, 1)",
+                        "Uma reta decrescente que passa pelo ponto (1, 0)",
+                        "Uma reta crescente que passa pelo ponto (1, 0)"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "question": "Se a razão entre dois números é 2:3 e a soma deles é 25, então esses números serão:",
+                    "options": [
+                        "08 e 17",
+                        "09 e 16",
+                        "10 e 15",
+                        "11 e 14",
+                        "12 e 13"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "Acerca do Código de Ética Profissional do Servidor Público do IBGE, analise as afirmativas e assinale a sequência correta (V/F):\n( ) O trabalho desenvolvido pelo servidor público perante a comunidade deve ser entendido como acréscimo ao seu próprio bem-estar.\n( ) Toda ausência injustificada do servidor é fator de desmoralização do serviço público.\n( ) A função pública deve ser tida como exercício profissional e, portanto, não se integra na vida particular do servidor.",
+                    "options": [
+                        "V- V- V",
+                        "V- F- V",
+                        "F- F- V",
+                        "V- V- F",
+                        "F- V- F"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "Acerca das proibições da Lei nº 8.112/1990, analise as afirmativas (V/F):\n( ) Ao servidor é proibido opor resistência injustificada ao andamento de documento e processo ou execução de serviço.\n( ) Ao servidor é proibido promover manifestação de apreço ou desapreço no recinto da repartição.\n( ) Ao servidor é proibido recusar fé a documentos públicos.",
+                    "options": [
+                        "V- V- V",
+                        "V- F- V",
+                        "F- F- V",
+                        "V- V- F",
+                        "F- V- F"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "question": "De acordo com a Lei nº 8.112/1990, analise as afirmativas:\nI. O servidor responde civil, penal e administrativamente pelo exercício irregular de suas atribuições.\nII. A responsabilidade civil decorre de ato omissivo ou comissivo, doloso ou culposo, que resulte em prejuízo ao erário ou a terceiros.\nIII. As sanções civis, penais e administrativas não poderão ser cumuladas, sendo dependentes entre si.\nEstão corretas as afirmativas:",
+                    "options": [
+                        "I, II e III",
+                        "I e II apenas",
+                        "II e III apenas",
+                        "I e III apenas",
+                        "I apenas"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "question": "Assinale a alternativa que apresenta corretamente a configuração do abandono de cargo.",
+                    "options": [
+                        "A falta ao serviço, sem causa justificada, por sessenta dias, interpoladamente, durante o período de doze meses",
+                        "A falta ao serviço, sem causa justificada, por quinze dias, interpoladamente, durante o período de cinco meses",
+                        "A ausência intencional do servidor ao serviço por mais de trinta dias consecutivos",
+                        "A ausência intencional do servidor ao serviço por mais de sessenta dias consecutivos",
+                        "A ausência justificada do servidor ao serviço por mais de 45 dias consecutivos"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "Artigo XVII do Código de Ética do IBGE:\nXVII- À Comissão de Ética do IBGE incumbe fornecer [...] os ______ sobre a conduta ética dos servidores da Casa, para o efeito de instruir e fundamentar ______ e para todos os demais procedimentos próprios da ______ de servidor público no âmbito do IBGE.",
+                    "options": [
+                        "procedimentos/ penalidades/ função",
+                        "processos/ sanções/ cargo",
+                        "lançamentos/ evoluções/ serviço",
+                        "registros/ promoções/ carreira",
+                        "cadastros/ progressos/ ocupação"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "Sobre as Regiões Hidrográficas e bacias hidrográficas brasileiras, assinale a alternativa correta.",
+                    "options": [
+                        "Todas as doze RH brasileiras possuem o mesmo nome de seus rios principais",
+                        "As RH são sempre compostas por apenas uma única bacia hidrográfica",
+                        "A RH São Francisco não pode ser considerada totalmente brasileira, pois a nascente do rio São Francisco não se localiza no Brasil",
+                        "A bacia hidrográfica é uma área geográfica composta pelo rio principal e seus afluentes e delimitada pelos divisores de águas",
+                        "A RH Amazônica é uma das poucas que se localiza inteiramente no Brasil"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "De acordo com a ANA, é possível classificar os usos da água em dois tipos: um é considerado ______ quando a água é consumida (ex: irrigação); já usos como navegação e turismo são exemplos do uso ______.",
+                    "options": [
+                        "consuntivo/ consumível",
+                        "não consuntivo/ consuntivo",
+                        "não consuntivo/ consumível",
+                        "consumível/ não consuntivo",
+                        "consuntivo/ não consuntivo"
+                    ],
+                    "correctAnswer": 4
+                },
+                {
+                    "question": "Faz parte do relevo brasileiro: ______ são terrenos mais antigos relativamente planos, situados em altitudes mais elevadas. ______ são áreas essencialmente planas formadas a partir da deposição de sedimentos.",
+                    "options": [
+                        "planícies/ chapadas",
+                        "planaltos/ depressões",
+                        "serras/ planaltos",
+                        "tabuleiros/ planícies",
+                        "planaltos/ planícies"
+                    ],
+                    "correctAnswer": 4
+                },
+                {
+                    "question": "Os hotspots são locais com grande biodiversidade, mas devastados pela ação antrópica. O Brasil abriga dois hotspots:",
+                    "options": [
+                        "Amazônia/ Taiga",
+                        "Mata Atlântica/ Cerrado",
+                        "Caatinga/ Pantanal",
+                        "Mata Atlântica/ Pampa",
+                        "Amazônia/ Caatinga"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "question": "A respeito do desmatamento no bioma Cerrado, assinale a alternativa incorreta.",
+                    "options": [
+                        "A produção de determinadas commodities agrícolas ocorre em áreas desmatadas do Cerrado",
+                        "Nos primeiros cinco meses do ano atual, o Cerrado teve área desmatada de mais de 3.320km²",
+                        "Apesar do aumento do desmatamento do Cerrado em 2023, mais de 70% de sua vegetação natural está preservada",
+                        "Entre janeiro e maio de 2023, o desmatamento da Amazônia Legal caiu 31% em relação a 2022",
+                        "Entre janeiro e maio de 2023 o aumento do desmatamento do Cerrado foi de 27% em relação a 2022"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "De acordo com as coordenadas geográficas, os ______ são linhas imaginárias que cortam a Terra no sentido norte–sul. Os ______ são linhas imaginárias que circulam a Terra no sentido leste–oeste.",
+                    "options": [
+                        "paralelos/ pontos geográficos",
+                        "meridianos/ pontos geográficos",
+                        "paralelos/ meridianos",
+                        "meridianos/ paralelos",
+                        "pontos geográficos/ paralelos"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "Assinale o tipo de mapa que apresenta a variação de altitudes pelo método de escala de cores.",
+                    "options": [
+                        "Político-administrativo",
+                        "Hidrográfico",
+                        "Histórico",
+                        "Atitudinal",
+                        "Hipsométrico"
+                    ],
+                    "correctAnswer": 4
+                },
+                {
+                    "question": "Assinale a alternativa incorreta sobre escalas em mapas.",
+                    "options": [
+                        "Nos mapas, as escalas podem ser representadas em forma numérica e/ou gráfica",
+                        "Atualmente, com o uso do GPS, a representação da escala deixou de ser um elemento obrigatório nos mapas",
+                        "A escala numérica indica a relação entre as dimensões do espaço real e do espaço representado",
+                        "A escala representa a relação entre a medida no mapa e sua medida real",
+                        "A escala gráfica é a representação gráfica de distâncias do terreno sobre uma linha reta graduada"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "question": "Nos sistemas de coordenadas geográficas, os paralelos indicam a ______, distância da linha do Equador; a ______ é a distância, em graus, entre o meridiano de origem (Greenwich) e o meridiano local.",
+                    "options": [
+                        "longitude/ latitude",
+                        "latitude/ longitude",
+                        "longitude/ linha internacional da data",
+                        "latitude/ linha internacional da data",
+                        "linha internacional da data/ longitude"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "question": "A respeito da formação territorial do Brasil, assinale a alternativa incorreta.",
+                    "options": [
+                        "O início da colonização do Brasil ocorreu em 1500",
+                        "A colonização ocorreu no período das 'Grandes Navegações'",
+                        "Foram feitos vários tratados para a formação da fronteira, como o Tratado de Madri",
+                        "As capitanias hereditárias não contribuíram significativamente para a formação do território brasileiro",
+                        "A linha do Tratado de Tordesilhas dividia as terras entre Portugal e Espanha"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "O Brasil é organizado em estados, municípios e distrito. Para administrar, existe uma divisão hierárquica em governos:",
+                    "options": [
+                        "nacional, estatal e municipal",
+                        "federal, municipal e estadual",
+                        "federação, estadual e municipal",
+                        "federal, estadual e municipal",
+                        "republicano, municipal e estadual"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "Com base na 'trajetória' do Sol [...] foram estabelecidas as direções cardeais. O leste é onde o Sol 'nasce'. Essa trajetória é um movimento:",
+                    "options": [
+                        "de translação",
+                        "de rotação",
+                        "aparente",
+                        "rotacional",
+                        "latitudinal"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "De acordo com o Censo Demográfico de 2022, há 23,8 pessoas por km². Com o aumento populacional, a ______ do país passou de 22,43 para 23,8 hab/km².",
+                    "options": [
+                        "Concentração urbana",
+                        "Taxa de natalidade",
+                        "Taxa de fecundidade",
+                        "Densidade demográfica",
+                        "Crescimento vegetativo"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "A capital paulista possui uma concentração urbana que reúne 37 municípios. Esse fenômeno de concentração e centralização urbana é denominado:",
+                    "options": [
+                        "Megalópole",
+                        "Metrópole",
+                        "Megacidades",
+                        "Capitalização",
+                        "Urbanização"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "question": "Dados do Censo Agropecuário de 2017 revelam que 81% das propriedades (pequenas) ocupam apenas 12,8% da área, enquanto 0,3% (grandes) ocupam 32,8% da área. Isso evidencia o problema de:",
+                    "options": [
+                        "Reforma agrária",
+                        "Fronteira agrícola",
+                        "Concentração fundiária",
+                        "Revolução Verde",
+                        "Agronegócio"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "Com a industrialização, as pessoas saíram do campo rumo às cidades em busca de emprego. Esse fenômeno migratório é denominado:",
+                    "options": [
+                        "Êxodo rural",
+                        "Revolução Verde",
+                        "Migração pendular",
+                        "Mecanização agrícola",
+                        "Migração sazonal"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "question": "Dados do IBGE (2022) mostram que a proporção de pobres é quase o dobro entre pretos/pardos (34-38%) vs brancos (18,6%), e os brancos ocupam 69% dos cargos gerenciais. Isso representa:",
+                    "options": [
+                        "Aumento significativo de comunidades periféricas",
+                        "Desemprego estrutural",
+                        "Desigualdades sociais por cor ou raça no Brasil",
+                        "Elevada taxa de mortalidade infantil",
+                        "Queda do PIB"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "question": "A agricultura da região Amazônica divide-se em dois tipos: a realizada em ______, com produção de alimentos (mandioca, feijão); e a realizada em ______, com produção para indústria/exportação.",
+                    "options": [
+                        "fronteira agrícola/ frente pioneira",
+                        "latifúndios/ minifúndios",
+                        "mata dos Cocais/ mata de Igapó",
+                        "pequenas propriedades/ grandes propriedades",
+                        "unidade de Conservação/ fronteira agrícola"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "question": "A produção do(a) ______ corresponde ao conjunto de atividades agropecuárias sob comando de grandes grupos agroindustriais. No Brasil, o(a) ______ produz 70% dos alimentos consumidos pelos brasileiros.",
+                    "options": [
+                        "Commodities agrícolas/ pecuária",
+                        "Commodities agrícolas/ agricultura familiar",
+                        "Agricultura familiar/ agronegócio",
+                        "Agronegócio/ latifúndio",
+                        "Agronegócio/ agricultura familiar"
+                    ],
+                    "correctAnswer": 4
+                }
+            ]
+        }
+    ]
+}
