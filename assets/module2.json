@@ -1,924 +1,615 @@
 {
-  "name": "Practica Integral del Seguro",
-  "professor": "Eliana Domínguez",
+  "name": "Pruebas de concursos para yanelys",
+  "professor": "Gilbert Luis jjjjj",
   "themes": [
     {
-      "name": "Riesgo Tecnologico (Depto Informática)",
-      "id": "riesgo-tecnolog",
+      "id": "prueba-2023",
+      "name": "Prueba 2023",
       "questions": [
         {
-          "question": "¿Cuál de los siguientes factores NO agrava el riesgo tecnológico?",
+          "question": "De acordo com a leitura, assinale a alternativa correta.",
           "options": [
-            "Dependencia de proveedores externos",
-            "Vulnerabilidades en el software",
-            "Ciberataques y amenazas externas",
-            "Implementación de un programa de capacitación regular"
-          ],
-          "correctAnswer": 3
-        },
-        {
-          "question": "¿Qué factor relacionado con el personal puede aumentar el riesgo tecnológico?",
-          "options": [
-            "Exceso de personal técnico",
-            "Falta de capacitación y conciencia",
-            "Rotación frecuente de empleados",
-            "Uso de tecnología avanzada"
+            "Posições diferentes não alteram a vista do observador.",
+            "A mesma paisagem torna-se mais extensa se observada do alto.",
+            "A paisagem é diferente se vista por dois observadores na mesma posição.",
+            "O observador na rua vê a paisagem mais extensa do que aquele que vê do alto.",
+            "A mesma paisagem torna-se mais extensa se observada da rua."
           ],
           "correctAnswer": 1
         },
         {
-          "question": "La dependencia excesiva de un único proveedor tecnológico puede resultar en:",
+          "question": "De acordo com o texto, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) “No primeiro caso”, refere-se ao observador na rua.\n( ) “Isso quer dizer”, refere-se à influência da posição do observador na visão da paisagem.\n( ) “Portanto”, pode ser substituído por: mas, porém, contudo.\n( ) “Por exemplo”, refere-se ao exemplo de posicionamento de observação.\nAssinale a alternativa que apresenta a sequência correta de cima para baixo.",
           "options": [
-            "Mayor eficiencia operativa",
-            "Reducción de costos a largo plazo",
-            "Aumento de la seguridad informática",
-            "Vulnerabilidad ante fallos del proveedor"
+            "V- V- F- F.",
+            "V- F- V- F.",
+            "F- F- V- V.",
+            "F- V- V- V.",
+            "F- V- F- V."
           ],
-          "correctAnswer": 3
+          "correctAnswer": 4
         },
         {
-          "question": "¿Qué factor se refiere a las debilidades en el software que pueden ser explotadas?",
+          "question": "No texto acima, o trecho “a paisagem observada será bem mais extensa” refere-se ao fato de que a paisagem observada será mais:",
           "options": [
-            "Ciberataques y Amenazas Externas",
-            "Vulnerabilidades en el Software",
-            "Falta de Capacitación y Conciencia",
-            "Dependencia de Proveedores Externos"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "Las vulnerabilidades en el software pueden ser explotadas principalmente por:",
-          "options": [
-            "Empleados descontentos",
-            "Ciberataques y amenazas externas",
-            "Proveedores de servicios",
-            "Fallos en el hardware"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuál es el objetivo principal de las estrategias para disminuir el riesgo tecnológico?",
-          "options": [
-            "Aumentar la complejidad de los sistemas",
-            "Reducir la probabilidad y el impacto de los riesgos",
-            "Eliminar todos los riesgos",
-            "Aumentar la dependencia de proveedores externos"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué estrategia se utiliza para identificar y evaluar los riesgos tecnológicos?",
-          "options": [
-            "Desarrollo de un Plan Integral",
-            "Evaluación y Priorización de Riesgos",
-            "Fortalecimiento de la Ciberseguridad",
-            "Contratación de Expertos"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué es fundamental para implementar estrategias efectivas contra el riesgo tecnológico?",
-          "options": [
-            "Monitoreo continuo",
-            "Desarrollo de un Plan Integral de Gestión de Riesgos",
-            "Capacitación del personal",
-            "Actualización constante de software"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuál de las siguientes opciones NO es una estrategia para disminuir el riesgo tecnológico?",
-          "options": [
-            "Fortalecimiento de la Ciberseguridad",
-            "Planes de Recuperación ante Desastres",
-            "Inversión en tecnología obsoleta",
-            "Capacitación Regular del Personal"
+            "Intensa, viva.",
+            "Próxima, pormenorizada.",
+            "Longa, ampla.",
+            "Curta, menor.",
+            "Pormenorizada, menor."
           ],
           "correctAnswer": 2
         },
         {
-          "question": "La redundancia y disponibilidad continua son estrategias que buscan:",
+          "question": "No trecho “a paisagem observada será bem mais extensa do que aquela vista pela pessoa que está no plano da rua”, assinale a alternativa que apresenta a relação de sentido entre as orações acima.",
           "options": [
-            "Aumentar el tiempo de inactividad del sistema",
-            "Asegurar que los sistemas críticos estén siempre operativos",
-            "Reducir la capacitación del personal",
-            "Evitar la actualización del software"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué estrategia se centra en preparar a la organización para responder ante incidentes?",
-          "options": [
-            "Monitoreo Continuo",
-            "Planes de Recuperación ante Desastres",
-            "Evaluación y Priorización de Riesgos",
-            "Contratación de Expertos en Ciberseguridad"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "El fortalecimiento de la ciberseguridad implica:",
-          "options": [
-            "Desproteger los sistemas críticos",
-            "Implementar medidas preventivas contra ciberataques",
-            "Reducir el uso de tecnología moderna",
-            "Ignorar las amenazas externas"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuál es una función clave del monitoreo continuo en la gestión del riesgo tecnológico?",
-          "options": [
-            "Identificar vulnerabilidades en tiempo real",
-            "Limitar el acceso a información crítica",
-            "Desactivar las medidas de seguridad existentes",
-            "Evitar la capacitación del personal"
+            "Comparação.",
+            "Condição.",
+            "Finalidade.",
+            "Causalidade.",
+            "Concessão."
           ],
           "correctAnswer": 0
         },
         {
-          "question": "La actualización constante de software ayuda a:",
+          "question": "Em “Portanto, ao observar determinada paisagem, é importante considerar sua posição em relação a ela.”, assinale a alternativa em que se remete ao pronome “ela”.",
           "options": [
-            "Cerrar vulnerabilidades conocidas",
-            "Aumentar la complejidad del sistema",
-            "Disminuir la seguridad general del sistema",
-            "Ignorar las recomendaciones del proveedor"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué papel juegan los expertos en ciberseguridad en las estrategias para disminuir el riesgo tecnológico?",
-          "options": [
-            "Proporcionan conocimientos especializados para proteger los sistemas",
-            "Desconocen las amenazas actuales",
-            "Solo se enfocan en hardware obsoleto",
-            "No son necesarios si se tiene un buen software"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cuál es el propósito principal de la Gestión de Dispositivos Móviles (MDM)?",
-          "options": [
-            "Aumentar el uso de dispositivos personales en el trabajo",
-            "Rastrear y proteger los dispositivos móviles en la red corporativa",
-            "Eliminar la necesidad de dispositivos móviles en el entorno laboral",
-            "Permitir el acceso ilimitado a datos corporativos desde cualquier dispositivo"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué implica la Actualización y Parchado Regular en la minimización del riesgo tecnológico?",
-          "options": [
-            "Ignorar las actualizaciones de software",
-            "Aplicar parches solo cuando ocurra un problema",
-            "Identificar e implementar parches y actualizaciones en sistemas y aplicaciones",
-            "Actualizar el hardware cada mes"
+            "A observadora.",
+            "A posição.",
+            "A paisagem.",
+            "A cidade.",
+            "A consideração."
           ],
           "correctAnswer": 2
         },
         {
-          "question": "En el contexto del Desarrollo Seguro de Software, ¿qué es el S-SDLC?",
+          "question": "Em relação ao uso ou não da crase, analise a frase abaixo.\n______ terças-feiras, iremos______ aula de judô que fica______ poucos metros daqui.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
           "options": [
-            "Sistema de Seguridad Digital para Lenguajes de Computación",
-            "Secure Software Development Life Cycle",
-            "Solución de Seguridad para Desarrolladores de Lenguajes Complejos",
-            "Sistema de Supervisión de Desarrollo de Lenguajes Compilados"
+            "Às/ a/ à.",
+            "As/ à/ à.",
+            "Às/ a/ a.",
+            "As/ a/ a.",
+            "Às/ à/ a."
           ],
-          "correctAnswer": 1
+          "correctAnswer": 4
         },
         {
-          "question": "¿Cuál es un componente clave de la Copia de Seguridad y Recuperación?",
+          "question": "Em relação à concordância, assinale a alternativa incorreta.",
           "options": [
-            "Eliminar datos antiguos para ahorrar espacio",
-            "Crear duplicados de datos para restaurarlos en caso de pérdida",
-            "Compartir datos con otras empresas",
-            "Almacenar todos los datos en un solo lugar"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Qué aspecto es fundamental en la Capacitación Continua del Personal para minimizar riesgos tecnológicos?",
-          "options": [
-            "Enseñar solo a los empleados del departamento de TI",
-            "Realizar una única sesión de capacitación al año",
-            "Educar a todo el personal sobre las últimas amenazas y prácticas de seguridad",
-            "Enfocarse únicamente en el uso de software específico"
+            "Hoje, havia menos cadeiras na sala.",
+            "É proibida a entrada.",
+            "Nesta manhã, ela estava meia sonolenta.",
+            "A planilha anexa contém o relatório de ontem.",
+            "É permitida a venda de mercadorias."
           ],
           "correctAnswer": 2
         },
         {
-          "question": "¿Qué implica el Monitoreo y Auditoría Continua en la gestión del riesgo tecnológico?",
+          "question": "Assinale a alternativa correta, em que o termo “vencedor” é um substantivo.",
           "options": [
-            "Revisar los sistemas una vez al año",
-            "Ignorar las alertas de seguridad",
-            "Supervisar constantemente los sistemas y realizar auditorías regulares",
-            "Delegar toda la responsabilidad al proveedor de servicios"
-          ],
-          "correctAnswer": 2
-        }
-      ]
-    },
-    {
-      "name": "Riesgo en Empresa de seguro",
-      "id": "riesgo-seguro",
-      "questions": [
-        {
-          "question": "¿Cuál de los siguientes riesgos es el más directamente relacionado con la incertidumbre sobre si las primas cobradas serán suficientes para cubrir las reclamaciones?",
-          "options": [
-            "Riesgo de Suscripción",
-            "Riesgo de Mercado",
-            "Riesgo ALM",
-            "Riesgo de Liquidez"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cuál de los siguientes riesgos se refiere a pérdidas debido a cambios en el mercado?",
-          "options": [
-            "Riesgo de Suscripción",
-            "Riesgo de Mercado",
-            "Riesgo ALM",
-            "Riesgo de Liquidez"
+            "Ela ganhou o prêmio vencedor.",
+            "O vencedor foi o que ganhou também a última corrida.",
+            "O prêmio será do trabalho vencedor.",
+            "O melhor será o participante vencedor da disputa.",
+            "O aluno vencedor será aquele que acertar o resultado do problema."
           ],
           "correctAnswer": 1
         },
         {
-          "question": "¿Cuál de los siguientes riesgos se refiere a la incapacidad para cumplir con obligaciones financieras a corto plazo?",
+          "question": "Analise as afirmativas abaixo em relação à regência verbal.\nI. Visamos ao sucesso, sempre!\nII. Chegamos para o local indicado no mapa.\nIII. Os treinadores físicos e médicos assistiram o jogador contundido.\nEstão corretas as afirmativas:",
           "options": [
-            "Riesgo de Suscripción",
-            "Riesgo de Mercado",
-            "Riesgo ALM",
-            "Riesgo de Liquidez"
+            "I apenas.",
+            "I, II e III.",
+            "I e II apenas.",
+            "II e III apenas.",
+            "I e III apenas."
           ],
-          "correctAnswer": 3
+          "correctAnswer": 4
         },
         {
-          "question": "¿Cuál de los siguientes riesgos se relaciona con la gestión del equilibrio entre activos y pasivos?",
+          "question": "Analise as frases abaixo.\nDepois do exame, vocês estarão aptos______ dirigir.\nAquele era um problema fácil______ se resolver.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
           "options": [
-            "Riesgo de Suscripción",
-            "Riesgo de Mercado",
-            "Riesgo ALM",
-            "Riesgo de Liquidez"
+            "para, em.",
+            "de, a.",
+            "a, de.",
+            "como, a fim de",
+            "por, que."
           ],
           "correctAnswer": 2
         },
         {
-          "question": "¿Cuál de los siguientes riesgos surge cuando un prestatario no cumple con sus obligaciones financieras?",
+          "question": "Assinale a alternativa correta em relação ao texto, que se define como sendo do gênero textual.",
           "options": [
-            "Riesgo de Suscripción",
-            "Riesgo de Mercado",
-            "Riesgo ALM",
-            "Riesgo de Crédito"
+            "Crônica – trata de acontecimentos corriqueiros do cotidiano.",
+            "Diário – relatos de experiências e fatos cotidianos de uma pessoa.",
+            "Relatório – expõe resultados de uma atividade realizada.",
+            "Biografia – relata a vida de uma pessoa, seu legado, suas experiências.",
+            "Reportagem – transmitem informações aos leitores."
           ],
-          "correctAnswer": 3
+          "correctAnswer": 4
         },
         {
-          "question": "¿Cuál de los siguientes riesgos ocurre cuando una aseguradora tiene una exposición excesiva a un único riesgo o grupo de riesgos relacionados?",
+          "question": "O texto acima é predominantemente:",
           "options": [
-            "Riesgo de Suscripción",
-            "Riesgo de Mercado",
-            "Riesgo ALM",
-            "Riesgo de Concentración"
-          ],
-          "correctAnswer": 3
-        },
-        {
-          "question": "¿Cuál de los siguientes riesgos resulta de fallos en los procesos internos, sistemas o personas, así como por eventos externos que impactan las operaciones?",
-          "options": [
-            "Riesgo de Suscripción",
-            "Riesgo de Mercado",
-            "Riesgo ALM",
-            "Riesgo Operativo"
-          ],
-          "correctAnswer": 3
-        },
-        {
-          "question": "¿Cuál de los siguientes riesgos se relaciona con las posibles pérdidas derivadas de litigios o incumplimientos legales?",
-          "options": [
-            "Riesgo de Suscripción",
-            "Riesgo de Mercado",
-            "Riesgo ALM",
-            "Riesgo Legal"
-          ],
-          "correctAnswer": 3
-        },
-        {
-          "question": "¿Cuál de los siguientes riesgos implica amenazas relacionadas con la tecnología?",
-          "options": [
-            "Riesgo de Suscripción",
-            "Riesgo de Mercado",
-            "Riesgo ALM",
-            "Riesgo Tecnológico"
-          ],
-          "correctAnswer": 3
-        },
-        {
-          "question": "¿Cuál de los siguientes riesgos está asociado a decisiones estratégicas que pueden afectar el rendimiento a largo plazo de la aseguradora?",
-          "options": [
-            "Riesgo de Suscripción",
-            "Riesgo de Mercado",
-            "Riesgo ALM",
-            "Riesgo Estratégico"
-          ],
-          "correctAnswer": 3
-        },
-        {
-          "question": "¿Cuál de los siguientes riesgos se refiere a la posibilidad de que la percepción pública negativa afecte la confianza y, por ende, la estabilidad financiana de la aseguradora?",
-          "options": [
-            "Riesgo de Suscripción",
-            "Riesgo de Mercado",
-            "Riesgo ALM",
-            "Riesgo Reputacional"
-          ],
-          "correctAnswer": 3
-        },
-        {
-          "question": "¿Cuál de las siguientes estrategias de gestión del riesgo implica evitar o eliminar completamente el riesgo?",
-          "options": [
-            "Evitar",
-            "Mitigar",
-            "Asumir",
-            "Transferir"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cuál de las siguientes estrategias de gestión del riesgo se refiere a implementar medidas preventivas para reducir la probabilidad o el impacto de los riesgos?",
-          "options": [
-            "Evitar",
-            "Mitigar",
-            "Asumir",
-            "Transferir"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuál de las siguientes estrategias de gestión del riesgo implica aceptar ciertos riesgos como parte del negocio, siempre que se cuente con suficiente capital para cubrir posibles pérdidas?",
-          "options": [
-            "Evitar",
-            "Mitigar",
-            "Asumir",
-            "Transferir"
+            "Injuntivo.",
+            "Narrativo.",
+            "Descritivo.",
+            "Dissertativo.",
+            "Argumentativo."
           ],
           "correctAnswer": 2
         },
         {
-          "question": "¿Cuál de las siguientes estrategias de gestión del riesgo implica transferir parte del riesgo a otras entidades a cambio de una prima?",
+          "question": "Assinale a alternativa incorreta.",
           "options": [
-            "Evitar",
-            "Mitigar",
-            "Asumir",
-            "Transferir"
+            "Cusco foi nomeada Patrimônio Cultural da Humanidade.",
+            "A pequena cidade do Peru fica situada em região de clima frio.",
+            "Para os incas, quanto maior a altura, mais a felicidade é proporcionada.",
+            "As construções são preservadas pelos antigos incas.",
+            "O “umbigo do mundo” fica no alto das Cordilheiras dos Andes."
           ],
           "correctAnswer": 3
         },
         {
-          "question": "¿Cuál de los siguientes tipos de riesgos afecta directamente la situación financiera de la aseguradora?",
+          "question": "Leia o trecho no texto Cusco: “...O local, que atrai turistas de todas as partes, está localizado em uma região de clima seco e frio o que ajuda a preservar construções dos antigos povos incas que se misturam com prédios de estilo colonial”. Assinale a alternativa incorreta, em relação às palavras grifadas.",
           "options": [
-            "Riesgo de Mercado",
-            "Riesgo de Crédito",
-            "Riesgo Operativo",
-            "Riesgo Legal"
+            "“O local...”: “local” retoma Cusco.",
+            "“O local que atrai turistas...”: “que” retoma local.",
+            "Está localizado em uma região de clima seco e frio o que ajuda a preservar...”: “o que” retoma “localizado em uma região de clima seco e frio”.",
+            "...Antigos povos incas que se misturam...”: que retoma “antigos povos incas”.",
+            "...Antigos povos incas que se misturam...”: que retoma “se misturam”."
           ],
-          "correctAnswer": 0
+          "correctAnswer": 4
         },
         {
-          "question": "¿Cuál de los siguientes tipos de riesgos no está directamente relacionado con las finanzas pero puede afectar la operación general de la aseguradora?",
+          "question": "No trecho: “Vários templos, palácios e fortalezas centenárias estão espalhadas pela cidade...”, a palavra sublinhada pode ser substituída por:",
           "options": [
-            "Riesgo de Mercado",
-            "Riesgo de Crédito",
-            "Riesgo Operativo",
-            "Riesgo Legal"
-          ],
-          "correctAnswer": 2
-        },
-        {
-          "question": "¿Cuál de los siguientes tipos de riesgos solo puede resultar en pérdidas y es típicamente asegurable?",
-          "options": [
-            "Riesgo Puro",
-            "Riesgo Especulativo",
-            "Riesgo Fundamental",
-            "Riesgo Particular"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cuál de los siguientes tipos de riesgos implica la posibilidad de ganar o perder y no es asegurable?",
-          "options": [
-            "Riesgo Puro",
-            "Riesgo Especulativo",
-            "Riesgo Fundamental",
-            "Riesgo Particular"
-          ],
-          "correctAnswer": 1
-        },
-        {
-          "question": "¿Cuál de los siguientes tipos de riesgos afecta a grandes grupos de personas o entidades?",
-          "options": [
-            "Riesgo Puro",
-            "Riesgo Especulativo",
-            "Riesgo Fundamental",
-            "Riesgo Particular"
+            "Energias, vigorosas.",
+            "Forças morais, resistências.",
+            "Fortes, construções fortificadas.",
+            "Corpulentas, musculosas.",
+            "Sólidas, saudáveis."
           ],
           "correctAnswer": 2
         },
         {
-          "question": "¿Cuál de los siguientes tipos de riesgos afecta a individuos o grupos específicos?",
+          "question": "Em relação ao uso dos verbos, analise as frases abaixo.\nSe eu______ bem como você,______-me em um concurso e______ para que todos me______.\nAssinale a alternativa que preencha correta e respectivamente as lacunas.",
           "options": [
-            "Riesgo Puro",
-            "Riesgo Especulativo",
-            "Riesgo Fundamental",
-            "Riesgo Particular"
+            "canto/ inscreveria/ cantei/ ouvir.",
+            "cantasse/ inscreveria/ cantasse/ ouvirem.",
+            "cantei/ inscrevi/ cantei/ ouvirão.",
+            "cantasse/ inscreveria/ cantaria/ ouvissem.",
+            "canto/ inscrevi/ cantaria/ ouvissem."
           ],
           "correctAnswer": 3
         },
         {
-          "question": "¿Cuál de los siguientes componentes del riesgo se refiere a la naturaleza impredecible de los eventos que pueden causar pérdidas?",
+          "question": "Em relação à ortografia das palavras sublinhadas, assinale a alternativa incorreta.",
           "options": [
-            "Incertidumbre",
-            "Nivel de Riesgo",
-            "Peligro y Hazarosidad",
-            "Impacto"
+            "A auto-estima do garoto ficou ainda mais abalada.",
+            "Ficou faltando muita infraestrutura nas construções mais novas.",
+            "Os micro-ônibus são mais ágeis nas ruas da cidade.",
+            "Todos ficaram temendo um contra-ataque.",
+            "O ex-prefeito prestou declarações à polícia."
           ],
           "correctAnswer": 0
         },
         {
-          "question": "¿Cuál de los siguientes componentes del riesgo se evalúa en función de la frecuencia y severidad de los eventos?",
+          "question": "Dada a equação linear 3x - 2 = 5 - 2x, assinale a alternativa que apresenta o único valor da incógnita x que satisfaça a igualdade.",
           "options": [
-            "Incertidumbre",
-            "Nivel de Riesgo",
-            "Otros",
-            "Impacto"
+            "7/5",
+            "3/2",
+            "2/5",
+            "5/7",
+            "2/3"
           ],
-          "correctAnswer": 1
+          "correctAnswer": 0
         },
         {
-          "question": "¿Cuál de los siguientes componentes del riesgo incluye identificar peligros potenciales y su capacidad para causar daño?",
+          "question": "A coordenada x do vértice da parábola da equação y = -(x + 5)(x + 1) será:",
           "options": [
-            "Incertidumbre",
-            "Otros",
-            "Peligro y Hazarosidad",
-            "Impacto"
+            "-3",
+            "-1",
+            "0",
+            "1",
+            "3"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Para restaurar o preço original de um produto após um desconto de 20%, é preciso aplicar um aumento de______ sobre o preço com desconto.",
+          "options": [
+            "20%",
+            "21%",
+            "23%",
+            "25%",
+            "27%"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Assinale a alternativa que identifica corretamente o valor da razão de uma PG em que o primeiro termo é 3 e o quinto termo é 243.",
+          "options": [
+            "2,0",
+            "2,5",
+            "3,0",
+            "3,5",
+            "4,0"
           ],
           "correctAnswer": 2
-        }
-      ]
-    },
-    {
-      "name": "Provisiones Tecnicas",
-      "id": "provisiones-tecnicas",
-      "questions": [
-        {
-          "question": "¿Cuál es la principal función de las provisiones técnicas en una aseguradora?",
-          "options": [
-            "Respaldar Obligaciones",
-            "Representación en el Balance",
-            "Generar Ingresos",
-            "Reducir Costos"
-          ],
-          "correctAnswer": 0
         },
         {
-          "question": "¿Qué representa las provisiones técnicas en el pasivo del balance de una entidad aseguradora?",
+          "question": "Dada a sequência numérica: 4, 9, x, 25, 36,... o valor de x será:",
           "options": [
-            "Deuda con Reaseguradores",
-            "Deuda con Asegurados",
-            "Patrimonio Neto",
-            "Pasivo Corriente"
+            "13",
+            "17",
+            "14",
+            "18",
+            "16"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "question": "Em uma turma de 30 alunos, 18 preferem matemática, 12 preferem português e 6 não gostam de nenhuma das duas disciplinas. A quantidade de alunos que gostam tanto de matemática como de português é de:",
+          "options": [
+            "4 estudantes",
+            "6 estudantes",
+            "7 estudantes",
+            "8 estudantes",
+            "10 estudantes"
           ],
           "correctAnswer": 1
         },
         {
-          "question": "¿Por qué son importantes los principios que regulan las inversiones de las provisiones técnicas?",
+          "question": "Considere a seguinte sequência de números: -1, 3, -5, 7,... Com base nesse padrão, pode-se afirmar que o próximo número que deve aparecer na sequência será:",
           "options": [
-            "Para Maximizar Ganancias",
-            "Para Garantizar Cumplimiento de Obligaciones",
-            "Para Minimizar Costos",
-            "Para Simplificar la Contabilidad"
+            "-2",
+            "9",
+            "8",
+            "-9",
+            "-11"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Assinale a alternativa que corresponda, respectivamente, às razões 3/4, 1/2, 2/3, 1/4 em ordem crescente:",
+          "options": [
+            "D- C- B- A",
+            "A- B- C- D",
+            "C- A- D- B",
+            "B- D- A- C",
+            "D- B- C- A"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "question": "Considerando que o valor de PI é aproximadamente 3,14, o perímetro de um círculo com raio de 5 cm é igual a:",
+          "options": [
+            "15,7 cm",
+            "10,0 cm",
+            "47,1 cm",
+            "62,8 cm",
+            "31,4 cm"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "question": "Um time de basquete tem 5 jogadores em quadra. De quantas maneiras diferentes esses jogadores podem receber a bola, se cada jogador receber a bola exatamente uma única vez?",
+          "options": [
+            "4",
+            "25",
+            "60",
+            "120",
+            "240"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Assinale a alternativa que corresponda ao maior número. Esse número é o triplo do outro e a soma de ambos é igual a 16.",
+          "options": [
+            "4",
+            "16",
+            "12",
+            "8",
+            "10"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Assinale a alternativa que identifica corretamente a intersecção entre os conjuntos A = {1, 2, 5, 6, 7}, B = {2, 3, 4, 5, 6, 7} e C = {0, 1, 2, 3, 4, 5}.",
+          "options": [
+            "{2, 3, 5}",
+            "{2, 5}",
+            "{6, 7}",
+            "{1, 2, 5}",
+            "{1, 2, 3, 4, 5}"
           ],
           "correctAnswer": 1
         },
         {
-          "question": "¿Cuáles son las provisiones para las obligaciones por prima?",
+          "question": "Dada a função f(x) = x + 1, assinale a alternativa que descreva corretamente seu gráfico:",
           "options": [
-            "Provisones Para Riesgo en curso",
-            "Provisiones Tecnicas para siniestros pendientes de liquidación",
-            "Provisiones Tecnicas para desviacion de la siniestralidad",
-            "Provisiones Tecnicas para riesgos catastroficos"
+            "Uma reta vertical que passa pelo ponto (1, 0)",
+            "Uma reta crescente que passa pelo ponto (0, 1)",
+            "Uma reta horizontal que passa pelo ponto (0, 1)",
+            "Uma reta decrescente que passa pelo ponto (1, 0)",
+            "Uma reta crescente que passa pelo ponto (1, 0)"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Se a razão entre dois números é 2:3 e a soma deles é 25, então esses números serão:",
+          "options": [
+            "08 e 17",
+            "09 e 16",
+            "10 e 15",
+            "11 e 14",
+            "12 e 13"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Acerca do Código de Ética Profissional do Servidor Público do IBGE, analise as afirmativas e assinale a sequência correta (V/F):\n( ) O trabalho desenvolvido pelo servidor público perante a comunidade deve ser entendido como acréscimo ao seu próprio bem-estar.\n( ) Toda ausência injustificada do servidor é fator de desmoralização do serviço público.\n( ) A função pública deve ser tida como exercício profissional e, portanto, não se integra na vida particular do servidor.",
+          "options": [
+            "V- V- V",
+            "V- F- V",
+            "F- F- V",
+            "V- V- F",
+            "F- V- F"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Acerca das proibições da Lei nº 8.112/1990, analise as afirmativas (V/F):\n( ) Ao servidor é proibido opor resistência injustificada ao andamento de documento e processo ou execução de serviço.\n( ) Ao servidor é proibido promover manifestação de apreço ou desapreço no recinto da repartição.\n( ) Ao servidor é proibido recusar fé a documentos públicos.",
+          "options": [
+            "V- V- V",
+            "V- F- V",
+            "F- F- V",
+            "V- V- F",
+            "F- V- F"
           ],
           "correctAnswer": 0
         },
         {
-          "question": "¿Cuál no es la provision para las obligaciones por siniestros?",
+          "question": "De acordo com a Lei nº 8.112/1990, analise as afirmativas:\nI. O servidor responde civil, penal e administrativamente pelo exercício irregular de suas atribuições.\nII. A responsabilidade civil decorre de ato omissivo ou comissivo, doloso ou culposo, que resulte em prejuízo ao erário ou a terceiros.\nIII. As sanções civis, penais e administrativas não poderão ser cumuladas, sendo dependentes entre si.\nEstão corretas as afirmativas:",
           "options": [
-            "Provisones Para Riesgo en curso",
-            "Provisiones Tecnicas para siniestros pendientes de declaracion (IBNR)",
-            "Provisiones Tecnicas para desviacion de la siniestralidad",
-            "Provisiones Tecnicas para riesgos catastroficos"
+            "I, II e III",
+            "I e II apenas",
+            "II e III apenas",
+            "I e III apenas",
+            "I apenas"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Assinale a alternativa que apresenta corretamente a configuração do abandono de cargo.",
+          "options": [
+            "A falta ao serviço, sem causa justificada, por sessenta dias, interpoladamente, durante o período de doze meses",
+            "A falta ao serviço, sem causa justificada, por quinze dias, interpoladamente, durante o período de cinco meses",
+            "A ausência intencional do servidor ao serviço por mais de trinta dias consecutivos",
+            "A ausência intencional do servidor ao serviço por mais de sessenta dias consecutivos",
+            "A ausência justificada do servidor ao serviço por mais de 45 dias consecutivos"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Artigo XVII do Código de Ética do IBGE:\nXVII- À Comissão de Ética do IBGE incumbe fornecer [...] os ______ sobre a conduta ética dos servidores da Casa, para o efeito de instruir e fundamentar ______ e para todos os demais procedimentos próprios da ______ de servidor público no âmbito do IBGE.",
+          "options": [
+            "procedimentos/ penalidades/ função",
+            "processos/ sanções/ cargo",
+            "lançamentos/ evoluções/ serviço",
+            "registros/ promoções/ carreira",
+            "cadastros/ progressos/ ocupação"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Sobre as Regiões Hidrográficas e bacias hidrográficas brasileiras, assinale a alternativa correta.",
+          "options": [
+            "Todas as doze RH brasileiras possuem o mesmo nome de seus rios principais",
+            "As RH são sempre compostas por apenas uma única bacia hidrográfica",
+            "A RH São Francisco não pode ser considerada totalmente brasileira, pois a nascente do rio São Francisco não se localiza no Brasil",
+            "A bacia hidrográfica é uma área geográfica composta pelo rio principal e seus afluentes e delimitada pelos divisores de águas",
+            "A RH Amazônica é uma das poucas que se localiza inteiramente no Brasil"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "De acordo com a ANA, é possível classificar os usos da água em dois tipos: um é considerado ______ quando a água é consumida (ex: irrigação); já usos como navegação e turismo são exemplos do uso ______.",
+          "options": [
+            "consuntivo/ consumível",
+            "não consuntivo/ consuntivo",
+            "não consuntivo/ consumível",
+            "consumível/ não consuntivo",
+            "consuntivo/ não consuntivo"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "question": "Faz parte do relevo brasileiro: ______ são terrenos mais antigos relativamente planos, situados em altitudes mais elevadas. ______ são áreas essencialmente planas formadas a partir da deposição de sedimentos.",
+          "options": [
+            "planícies/ chapadas",
+            "planaltos/ depressões",
+            "serras/ planaltos",
+            "tabuleiros/ planícies",
+            "planaltos/ planícies"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "question": "Os hotspots são locais com grande biodiversidade, mas devastados pela ação antrópica. O Brasil abriga dois hotspots:",
+          "options": [
+            "Amazônia/ Taiga",
+            "Mata Atlântica/ Cerrado",
+            "Caatinga/ Pantanal",
+            "Mata Atlântica/ Pampa",
+            "Amazônia/ Caatinga"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "A respeito do desmatamento no bioma Cerrado, assinale a alternativa incorreta.",
+          "options": [
+            "A produção de determinadas commodities agrícolas ocorre em áreas desmatadas do Cerrado",
+            "Nos primeiros cinco meses do ano atual, o Cerrado teve área desmatada de mais de 3.320km²",
+            "Apesar do aumento do desmatamento do Cerrado em 2023, mais de 70% de sua vegetação natural está preservada",
+            "Entre janeiro e maio de 2023, o desmatamento da Amazônia Legal caiu 31% em relação a 2022",
+            "Entre janeiro e maio de 2023 o aumento do desmatamento do Cerrado foi de 27% em relação a 2022"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "De acordo com as coordenadas geográficas, os ______ são linhas imaginárias que cortam a Terra no sentido norte–sul. Os ______ são linhas imaginárias que circulam a Terra no sentido leste–oeste.",
+          "options": [
+            "paralelos/ pontos geográficos",
+            "meridianos/ pontos geográficos",
+            "paralelos/ meridianos",
+            "meridianos/ paralelos",
+            "pontos geográficos/ paralelos"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Assinale o tipo de mapa que apresenta a variação de altitudes pelo método de escala de cores.",
+          "options": [
+            "Político-administrativo",
+            "Hidrográfico",
+            "Histórico",
+            "Atitudinal",
+            "Hipsométrico"
+          ],
+          "correctAnswer": 4
+        },
+        {
+          "question": "Assinale a alternativa incorreta sobre escalas em mapas.",
+          "options": [
+            "Nos mapas, as escalas podem ser representadas em forma numérica e/ou gráfica",
+            "Atualmente, com o uso do GPS, a representação da escala deixou de ser um elemento obrigatório nos mapas",
+            "A escala numérica indica a relação entre as dimensões do espaço real e do espaço representado",
+            "A escala representa a relação entre a medida no mapa e sua medida real",
+            "A escala gráfica é a representação gráfica de distâncias do terreno sobre uma linha reta graduada"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Nos sistemas de coordenadas geográficas, os paralelos indicam a ______, distância da linha do Equador; a ______ é a distância, em graus, entre o meridiano de origem (Greenwich) e o meridiano local.",
+          "options": [
+            "longitude/ latitude",
+            "latitude/ longitude",
+            "longitude/ linha internacional da data",
+            "latitude/ linha internacional da data",
+            "linha internacional da data/ longitude"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "A respeito da formação territorial do Brasil, assinale a alternativa incorreta.",
+          "options": [
+            "O início da colonização do Brasil ocorreu em 1500",
+            "A colonização ocorreu no período das 'Grandes Navegações'",
+            "Foram feitos vários tratados para a formação da fronteira, como o Tratado de Madri",
+            "As capitanias hereditárias não contribuíram significativamente para a formação do território brasileiro",
+            "A linha do Tratado de Tordesilhas dividia as terras entre Portugal e Espanha"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "O Brasil é organizado em estados, municípios e distrito. Para administrar, existe uma divisão hierárquica em governos:",
+          "options": [
+            "nacional, estatal e municipal",
+            "federal, municipal e estadual",
+            "federação, estadual e municipal",
+            "federal, estadual e municipal",
+            "republicano, municipal e estadual"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Com base na 'trajetória' do Sol [...] foram estabelecidas as direções cardeais. O leste é onde o Sol 'nasce'. Essa trajetória é um movimento:",
+          "options": [
+            "de translação",
+            "de rotação",
+            "aparente",
+            "rotacional",
+            "latitudinal"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "De acordo com o Censo Demográfico de 2022, há 23,8 pessoas por km². Com o aumento populacional, a ______ do país passou de 22,43 para 23,8 hab/km².",
+          "options": [
+            "Concentração urbana",
+            "Taxa de natalidade",
+            "Taxa de fecundidade",
+            "Densidade demográfica",
+            "Crescimento vegetativo"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "A capital paulista possui uma concentração urbana que reúne 37 municípios. Esse fenômeno de concentração e centralização urbana é denominado:",
+          "options": [
+            "Megalópole",
+            "Metrópole",
+            "Megacidades",
+            "Capitalização",
+            "Urbanização"
           ],
           "correctAnswer": 0
         },
         {
-          "question": "¿Qué representan las provisiones técnicas en las entidades aseguradoras?",
+          "question": "Dados do Censo Agropecuário de 2017 revelam que 81% das propriedades (pequenas) ocupam apenas 12,8% da área, enquanto 0,3% (grandes) ocupam 32,8% da área. Isso evidencia o problema de:",
           "options": [
-            "Obligaciones derivadas de contratos de seguro",
-            "Activos líquidos disponibles",
-            "Inversiones en bienes raíces",
-            "Primas no cobradas"
+            "Reforma agrária",
+            "Fronteira agrícola",
+            "Concentração fundiária",
+            "Revolução Verde",
+            "Agronegócio"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Com a industrialização, as pessoas saíram do campo rumo às cidades em busca de emprego. Esse fenômeno migratório é denominado:",
+          "options": [
+            "Êxodo rural",
+            "Revolução Verde",
+            "Migração pendular",
+            "Mecanização agrícola",
+            "Migração sazonal"
           ],
           "correctAnswer": 0
         },
         {
-          "question": "¿Cuál es el objetivo de la Provisión de Riesgos en Curso?",
+          "question": "Dados do IBGE (2022) mostram que a proporção de pobres é quase o dobro entre pretos/pardos (34-38%) vs brancos (18,6%), e os brancos ocupam 69% dos cargos gerenciais. Isso representa:",
           "options": [
-            "Periodizar los ingresos por primas",
-            "Establecer primas para el próximo año",
-            "Liquidar siniestros pendientes",
-            "Invertir en acciones"
+            "Aumento significativo de comunidades periféricas",
+            "Desemprego estrutural",
+            "Desigualdades sociais por cor ou raça no Brasil",
+            "Elevada taxa de mortalidade infantil",
+            "Queda do PIB"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 2
         },
         {
-          "question": "¿Qué incluye la Provisión de Siniestros Pendientes de Liquidación?",
+          "question": "A agricultura da região Amazônica divide-se em dois tipos: a realizada em ______, com produção de alimentos (mandioca, feijão); e a realizada em ______, com produção para indústria/exportação.",
           "options": [
-            "Importes estimados de siniestros ocurridos y reportados",
-            "Primas futuras a cobrar",
-            "Gastos de publicidad",
-            "Costos de adquisición"
+            "fronteira agrícola/ frente pioneira",
+            "latifúndios/ minifúndios",
+            "mata dos Cocais/ mata de Igapó",
+            "pequenas propriedades/ grandes propriedades",
+            "unidade de Conservação/ fronteira agrícola"
           ],
-          "correctAnswer": 0
+          "correctAnswer": 3
         },
         {
-          "question": "¿Qué cubre la Provisión de Siniestros Pendientes de Declaración?",
+          "question": "A produção do(a) ______ corresponde ao conjunto de atividades agropecuárias sob comando de grandes grupos agroindustriais. No Brasil, o(a) ______ produz 70% dos alimentos consumidos pelos brasileiros.",
           "options": [
-            "Siniestros ocurridos pero no reportados antes del cierre del periodo económico",
-            "Primas no cobradas por los asegurados",
-            "Costos de adquisición de pólizas nuevas",
-            "Gastos operativos generales"
+            "Commodities agrícolas/ pecuária",
+            "Commodities agrícolas/ agricultura familiar",
+            "Agricultura familiar/ agronegócio",
+            "Agronegócio/ latifúndio",
+            "Agronegócio/ agricultura familiar"
           ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "La Desviación de Siniestralidad se establece para:",
-          "options": [
-            "Cubrir desviaciones en la siniestralidad esperada",
-            "Ajustar las primas anuales",
-            "Calcular riesgos catastróficos",
-            "Proveer gastos administrativos"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "Las provisiones técnicas son parte del:",
-          "options": [
-            "Pasivo del balance de una aseguradora",
-            "Activo circulante",
-            "Capital social",
-            "Inversiones a largo plazo"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "Los Riesgos Catastróficos son cubiertos por:",
-          "options": [
-            "Provisión destinada a eventos de gran impacto natural",
-            "Provisión para gastos administrativos",
-            "Provisión para inversiones en tecnología",
-            "Provisión para primas no cobradas"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "La Provisión de Siniestros Pendientes incluye:",
-          "options": [
-            "Importe estimado para siniestros ocurridos y reportados",
-            "Gastos en inversiones líquidas",
-            "Gastos en activos fijos",
-            "Gastos en reservas no utilizadas"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "Las provisiones técnicas deben reflejar:",
-          "options": [
-            "El importe actual que un asegurador tendría que pagar si transfiriera sus obligaciones",
-            "Gastos en inversiones líquidas",
-            "Gastos en activos fijos",
-            "Gastos en reservas no utilizadas"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué componentes incluye la Provisión de Riesgos en Curso?",
-          "options": [
-            "Gastos de administración, utilidad y recargos catastróficos",
-            "Gastos en publicidad y marketing",
-            "Gastos en comisiones a agentes",
-            "Gastos en inversiones a largo plazo"
-          ],
-          "correctAnswer": 0
-        }
-      ]
-    },
-    {
-      "name": "Proceso de Reclamaciones",
-      "id": "proceso-reclamaciones",
-      "questions": [
-        {
-          "question": "¿Cuál es uno de los objetivos principales de la Gestión de Reclamaciones?",
-          "options": [
-            "Minimizar el costo de las reclamaciones",
-            "Aumentar las primas de las pólizas",
-            "Expandir la cobertura del seguro",
-            "Reducir el número de asegurados"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué labor realizan los Especialistas de Reclamaciones?",
-          "options": [
-            "Colaborar y asistir al Asegurado",
-            "Diseñar nuevas pólizas de seguro",
-            "Realizar auditorías financieras",
-            "Negociar con proveedores externos"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cuál de los siguientes es un aspecto clave en la verificación de reclamaciones?",
-          "options": [
-            "Pago de la prima o compromiso de pago",
-            "Número de pólizas vendidas",
-            "Cantidad de siniestros reportados",
-            "Duración del contrato"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "Los aseguradores generalmente no rechazan reclamaciones cuando:",
-          "options": [
-            "La omisión o declaración falsa no hubiera afectado la valoración del riesgo",
-            "El asegurado no pagó la prima a tiempo",
-            "El riesgo no estaba cubierto por la póliza",
-            "La reclamación fue presentada fuera del plazo"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué deben confirmar los especialistas al verificar una reclamación?",
-          "options": [
-            "Que la pérdida fue causada por un riesgo cubierto",
-            "Que el asegurado tiene múltiples pólizas",
-            "Que se han realizado auditorías previas",
-            "Que el ajuste fue realizado por un tercero"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué implica el proceso de ajuste en las reclamaciones?",
-          "options": [
-            "Elaborar el ajuste para determinar el monto a pagar",
-            "Revisar las primas anuales del asegurado",
-            "Investigar fraudes potenciales en otras áreas",
-            "Negociar con otros aseguradores"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué se verifica en relación al interés asegurable del cliente?",
-          "options": [
-            "Que el cliente tiene un interés legítimo en el objeto asegurado",
-            "Que el cliente ha pagado todas sus primas a tiempo",
-            "Que el cliente tiene otras pólizas con la misma aseguradora",
-            "Que el cliente ha presentado reclamaciones anteriores"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué se busca lograr al pagar la pérdida lo antes posible?",
-          "options": [
-            "Satisfacción del asegurado y cumplimiento contractual",
-            "Reducción de costos operativos a largo plazo",
-            "Incremento en las ventas futuras de pólizas",
-            "Mejoramiento en la reputación financiera"
-          ],
-          "correctAnswer": 0
-        }
-      ]
-    },
-    {
-      "name": "Proceso de Reclamaciones",
-      "id": "proceso-suscripcione",
-      "questions": [
-        {
-          "question": "¿Cuál es una de las tareas principales en el proceso de suscripción?",
-          "options": [
-            "Desarrollo de nuevos productos para el mercado",
-            "Gestión de recursos humanos",
-            "Capacitación de vendedores",
-            "Análisis de competencia"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué se considera en la política de suscripción?",
-          "options": [
-            "Capacidad de la empresa",
-            "Estrategias de marketing",
-            "Presupuesto de publicidad",
-            "Histórico de ventas"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cuál es el primer paso clave en la suscripción de un riesgo?",
-          "options": [
-            "Evaluación de la solicitud de seguro",
-            "Cotización según normas",
-            "Recopilación de información de mercado",
-            "Establecer términos de cobertura"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué alternativas se consideran en el análisis de riesgos?",
-          "options": [
-            "Programas de prevención de pérdidas",
-            "Estrategias de expansión",
-            "Reducción de personal",
-            "Cambios en estructura organizacional"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cuál es un objetivo del proceso de cotización?",
-          "options": [
-            "Cubrir reclamaciones y gastos",
-            "Reducir número de clientes",
-            "Eliminar riesgos",
-            "Disminuir coberturas"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué métodos se utilizan para calcular tasas?",
-          "options": [
-            "Método de juicio",
-            "Método de marketing",
-            "Método de ventas",
-            "Método de publicidad"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué representa la prima?",
-          "options": [
-            "Costo de la probabilidad media teórica de siniestro",
-            "Costo total de operación",
-            "Ingreso bruto de la empresa",
-            "Ganancia proyectada"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cómo se calcula la tarifa pura?",
-          "options": [
-            "Frecuencia * Severidad",
-            "Gastos * Número de clientes",
-            "Primas * Número de siniestros",
-            "Riesgo * Cobertura"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué incluye la prima de inventario?",
-          "options": [
-            "Prima pura más gastos administrativos",
-            "Solo primas de seguros",
-            "Gastos de marketing",
-            "Comisiones de vendedores"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué componentes incluye la prima comercial o total?",
-          "options": [
-            "Prima pura, gastos administrativos, gastos de adquisición, utilidad, recargos de seguridad",
-            "Solo primas de seguros",
-            "Gastos de marketing",
-            "Salarios de empleados"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cuál es la importancia de la suscripción?",
-          "options": [
-            "Gestionar y mitigar riesgos",
-            "Aumentar número de clientes",
-            "Reducir coberturas",
-            "Eliminar competencia"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué se evalúa en la suscripción de un riesgo?",
-          "options": [
-            "Riesgos, asegurados, precios, términos de cobertura",
-            "Estrategias de marketing",
-            "Estructura organizacional",
-            "Presupuesto publicitario"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué tipos de tasas existen?",
-          "options": [
-            "Tasas establecidas en manual, tasas individuales, tasas de juicio",
-            "Tasas de marketing",
-            "Tasas de ventas",
-            "Tasas de publicidad"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué se considera en la política de suscripción?",
-          "options": [
-            "Regulaciones estatales",
-            "Estrategias de marketing",
-            "Presupuesto de publicidad",
-            "Histórico de ventas"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué es la frecuencia en los cálculos técnicos?",
-          "options": [
-            "Número de ocurrencias en un período",
-            "Número total de clientes",
-            "Número de pólizas vendidas",
-            "Número de oficinas"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué es la severidad?",
-          "options": [
-            "Magnitud de la pérdida",
-            "Número de siniestros",
-            "Costo total de operación",
-            "Número de empleados"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué recursos se consideran en la política de suscripción?",
-          "options": [
-            "Recursos humanos disponibles",
-            "Presupuesto de marketing",
-            "Recursos tecnológicos",
-            "Recursos de publicidad"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué protecciones se consideran en la suscripción?",
-          "options": [
-            "Protecciones de reaseguro",
-            "Protecciones de marketing",
-            "Protecciones de ventas",
-            "Protecciones de publicidad"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué se busca con la prima pura?",
-          "options": [
-            "Representar el costo básico del riesgo",
-            "Aumentar las ganancias",
-            "Reducir los costos operativos",
-            "Eliminar competencia"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Cuál es el último paso en el proceso de suscripción?",
-          "options": [
-            "Informar decisiones (puede incluir rechazo del negocio)",
-            "Realizar marketing",
-            "Contratar personal",
-            "Establecer nuevas oficinas"
-          ],
-          "correctAnswer": 0
-        },
-        {
-          "question": "¿Qué busca garantizar el proceso de cotización?",
-          "options": [
-            "Una ganancia razonable",
-            "Eliminar todos los riesgos",
-            "Reducir número de clientes",
-            "Aumentar costos"
-          ],
-          "correctAnswer": 0
+          "correctAnswer": 4
         }
       ]
     }
